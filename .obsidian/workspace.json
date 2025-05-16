@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "0975c89e1673f0b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/Il Transport Layer del TCP IP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Il Transport Layer del TCP IP"
-            }
-          },
-          {
             "id": "e7d232ac6dde53f5",
             "type": "leaf",
             "state": {
@@ -77,8 +63,7 @@
               "title": "Sistemi e Reti"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,15 +221,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0975c89e1673f0b2",
+  "active": "0cd6d0fa924c81b4",
   "lastOpenFiles": [
-    "MOC/Sistemi e Reti.md",
     "temp/Il Transport Layer del TCP IP.md",
+    "README.md",
+    "MOC/Sistemi e Reti.md",
     "temp/DHCP e DNS.md",
     "temp/Routing.md",
     "tem.md",
     "temp",
-    "README.md",
     "note",
     "MOC"
   ]
