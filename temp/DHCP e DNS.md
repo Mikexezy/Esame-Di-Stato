@@ -113,4 +113,7 @@ I client che accedono ai Name Server sono i resolver. Se il Resource Record è a
 *Problematiche di Sicurezza del DNS*
 Il DNS dal punto di vista della sicurezza è critico sotto vari punti di vista:
 - non è autenticato: l'informazione richiesta potrebbe arrivare non dal DNS Server corretto ma da un'altra macchina;
-- è molto lento, quindi è possibile che qualcuno intercetti la richiesta destinata a un DNS Server e risponda la suo posto
+- è molto lento, quindi è possibile che qualcuno intercetti la richiesta destinata a un DNS Server e risponda la suo posto che qualcuno intercetti la richiesta destinata a un DNS Server e risponda al suo posto (spoofing);
+- non offre meccanismi per proteggere l'integrità delle informazioni distribuite;
+
+Proprio per il ruolo critico che il DNS ricopre nell'internet, l'ICANN ha evidenziato la necessità di stabilire metriche e modalità per il controllo del DNS, individuando 5 indicatori importanti: coerenza, integrità, velocità, disponibilità e robustezza

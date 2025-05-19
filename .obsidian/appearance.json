@@ -1,4 +1,7 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "obsidian"
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "Arial Unicode MS",
+  "baseFontSize": 13,
+  "baseFontSizeAction": true
 }
