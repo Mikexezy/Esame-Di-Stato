@@ -2,19 +2,17 @@
 connections:
   - "[[Sistemi e Reti]]"
 ---
+# Reti Wireless
+
 Le reti wireless permettono la comunicazione tra dispositivi senza l’uso di cavi, sfruttando onde radio o segnali infrarossi. Come le reti cablate, possono essere classificate in base all’estensione dell’area coperta. 
 
----
-
-*WPAN*
+# WPAN
 
 Le **WPAN** (Wireless Personal Area Network) coprono pochi metri e sono adatte per ambienti domestici o piccoli uffici, usando tecnologie come **Bluetooth** o **IrDA**, impiegate anche nella domotica.
 
 Il **Bluetooth** opera a 2,4 GHz, ha una velocità massima di 2 Mbps e segue lo standard **IEEE 802.15**. Una rete Bluetooth, detta **piconet**, è costituita da un dispositivo Master che gestisce fino a sette dispositivi Slave. Più piconet possono formare una **scatternet**. Con **Bluetooth 5.0**, la velocità arriva a 2 Mbps e la portata può raggiungere i 240 metri, migliorando le prestazioni rispetto alle versioni precedenti, soprattutto per dispositivi a basso consumo.
 
----
-
-*WLAN*
+# WLAN
 
 Le **WLAN** (Wireless Local Area Network) sono simili alle tradizionali LAN cablate, ma senza fili. Lo standard più usato è **IEEE 802.11**. Le WLAN includono dispositivi mobili (WT) e uno o più **Access Point (AP)**, che fungono da ponte tra la rete wireless e quella cablata. Un **Basic Service Set (BSS)** è formato da un AP e dai dispositivi nella sua area di copertura. Più BSS collegati formano un **Extended Service Set (ESS)**, che si comporta come una sola rete WLAN.
 
@@ -22,9 +20,7 @@ Gli **ESS** possono includere BSS parzialmente sovrapposti, disgiunti o co-locat
 
 La configurazione di un Access Point in ambito aziendale richiede la definizione di parametri come **SSID**, **potenza**, **canale**, **crittografia**, **incapsulamento**, **NAT** e **DHCP**.
 
----
-
-*WMAN*
+# WMAN
 
 Le **WMAN** (Wireless Metropolitan Area Network) permettono la distribuzione dei dati in aree urbane tramite antenne potenti, offrendo una valida alternativa al cablaggio tradizionale. Il collegamento può essere **point-to-point**, tra due bridge wireless, o **point-to-multipoint**, con un’antenna centrale e più terminali puntati verso di essa. Lo standard usato è **IEEE 802.16**, da cui nasce il progetto **WiMAX**, simile alla Wi-Fi Alliance per le WLAN.
 
@@ -32,17 +28,13 @@ La trasmissione WiMAX può avvenire in modalità **non-line-of-sight**, con freq
 
 Le **WWAN** (Wireless Wide Area Network) coprono aree molto estese, fino a livello nazionale o continentale. I **WISP** (Wireless Internet Service Providers) offrono questi servizi con infrastrutture dedicate, e tramite accordi di roaming garantiscono connettività globale.
 
----
-
-*La Sicurezza nelle Reti Wireless*
+# La Sicurezza nelle Reti Wireless
 
 Dal punto di vista della **sicurezza**, le reti wireless presentano rischi specifici. Lo **sniffing** consente di intercettare passivamente i dati, per cui è essenziale usare meccanismi di crittografia. L’**accesso non autorizzato** avviene spesso tramite **Access Point Rouge** (non autorizzati), contrastabile con l’**autenticazione reciproca** tra WT e AP.
 
 Un'altra minaccia è lo **spoofing**, dove un terminale falso si sostituisce a un dispositivo legittimo. Il **protocollo SARP** può prevenire questo rischio creando tunnel protetti. Gli **attacchi DoS** (Denial of Service) possono bloccare la rete sovrapponendo segnali radio. Barriere fisiche come vernici schermanti possono ridurre l’impatto.
 
----
-
-*La Crittografia*
+# La Crittografia
 
 Tra i principali sistemi di crittografia utilizzati troviamo:
 
@@ -50,9 +42,7 @@ Tra i principali sistemi di crittografia utilizzati troviamo:
 - **TKIP (Temporal Key Integrity Protocol)**: è una **evoluzione del WEP**, ancora basata su RC4, ma con miglioramenti. Utilizza una **chiave temporanea a 128 bit** condivisa tra il terminale wireless (WT) e l'Access Point (AP), che viene rigenerata ad ogni pacchetto o burst. Aggiunge anche un **IV (Initialization Vector)** di 128 bit per aumentare la complessità della chiave di cifratura. Nonostante ciò, anche TKIP è ormai superato;
 - **AES (Advanced Encryption Standard)**: rappresenta lo standard di sicurezza attuale. Utilizza l’algoritmo a blocchi **Rijndael**, considerato estremamente sicuro e praticamente indecifrabile con le tecnologie attuali. Viene usato nei protocolli più recenti come **WPA** e **WPA2**, che includono anche meccanismi di distribuzione dinamica delle chiavi e **autenticazione reciproca**;
 
----
-
-*L'Autenticazione*
+# L'Autenticazione
 
 Sul fronte dell’**autenticazione**, esistono diversi metodi per impedire l’accesso non autorizzato alla rete wireless:
 

@@ -2,6 +2,8 @@
 connections:
   - "[[Sistemi e Reti]]"
 ---
+# VPN – Virtual Private Network
+
 Esistono sia reti private vere e proprie che collegano più sedi in una rete aziendale tramite canali dedicati, sia reti private virtuali. I vantaggi delle reti private sono:
 - Larghezza di banda sempre disponibile;
 - Nessun problema di accesso;
@@ -22,16 +24,12 @@ Per ovviare a questi problemi si ricorre alle reti private virtuali. Una VPN (Vi
 Il primo problema viene affrontato tramite l'utilizzo delle WAN, il secondo e il terzo grazie ai fattori di autenticazione, cifratura e tunneling.
 Esistono due tipi di VPN in commercio, le Remote-access VPN e le Site-to-site VPN. 
 
----
-
-*Remote-Access VPN*
+# Remote-Access VPN
 
 Una remote-access VPN consente ai singoli utenti di stabilire connessioni sicure con la LAN aziendale remota, vi sono due componenti indispensabili per la sua realizzazione, il Server NAS (Network Access Server) è il primo, esso può essere o un server dedicato o un'applicazione software in esecuzione su un server condiviso. Attraverso esso l'utente si connette a Internet e può utilizzare una VPN, richiede all'utente di fornire le credenziali per accedere alla VPN e per autenticare queste ultime il NAS utilizza il proprio processo di autenticazione o si avvale di un server di autenticazione separato in esecuzione sulla rete, come il RADIUS AAA Server (AAA sta per i servizi: Authentication, Authorization, Accounting). 
 L'altro componente di un accesso remoto VPN è un software VPN client, inoltre è necessario un firewall che faccia da barriera tra la rete privata e Internet. In genere le aziende esperte decidono di implementare e gestire in proprio la VPN ad accesso remoto, anche se le aziende possono decidere di esternalizzare (outsourcing) i propri servizi VPN tramite il provider dei servizi enterprise. Tirando le somme una Remote-access VPN è adatta per i singoli dipendenti/utenti o per aziende con filiali costituite da piccoli uffici.
 
----
-
-*Site-to-Site VPN*
+# Site-to-Site VPN
 
 Una Site-to-site VPN permette di stabilire connessioni sicure attraverso una rete pubblica, anche ad aziende con tante soldi, ognuna con la sua LAN, ne esistono due tipi:
 - Intranet-based, se si desidera unire le reti delle sedi remote in un'unica rete privata;
@@ -39,9 +37,7 @@ Una Site-to-site VPN permette di stabilire connessioni sicure attraverso una ret
 
 Anche se gli scopi della Site-to-site VPN sono diversi da quelli della Remote-access VPN, è possibile utilizzare parte dello stesso software e gli stessi dispositivi, in genere la Site-to-site dovrebbe eliminare la necessità di eseguire il software VPN client come se l'host fosse una Remote-access VPN.
 
----
-
-*La Sicurezza delle Reti*
+# La Sicurezza delle Reti
 
 Ovviamente le VPN devono affrontare seri problemi nell'ambito sia della sicurezza dei dati che della riservatezza delle trasmissioni. In questo campo i fattori su cui bisogna concentrare la nostra attenzione sono 3:
 
@@ -56,9 +52,7 @@ I principali protocolli usati per garantire la sicurezza della rete sono :
 - SSLTLS;
 - BGP/MPLS (Border Gateway Protocol / Transport Layer Security);
 
----
-
-*IPsec*
+# IPsec
 
 L'IPsec è la scelta più frequente per realizzare sia le Site-to-site VPN con topologia a maglia completa che le Remote-access VPN con topologia a stella. Questo non è un singolo protocollo, ma piuttosto un'intera infrastruttura di sicurezza a livello Network composta da 3 protocolli:
 - Authentication Header (AH): garantisce l'autenticazione e l'integrità del messaggio, ma non offre confidenzialità. Viene definito nell'RFC 4302;
@@ -78,9 +72,7 @@ Ora andiamo a dare uno sguardo più specifico ai 3 protocolli principali dell’
 - ESP: fornisce servizi di confidenzialità, autenticazione, integrità e protezione da attacchi di tipo replay. È possibile utilizzare solo alcuni servizi o tutti i servizi insieme. Per quanto riguarda la confidenzialità differisce dall'AH in quanto essa non copre l'header esterno. ESP aggiunge anche un campo Authentication che contiene i dati usati per autenticare il pacchetto;
 - IKE: realizza un collegamento peer-to-peer in due fasi, in primis i due host creano una Security Association per IKE stesso, ovvero un canale sicuro per la condivisione dei messaggi. In secundis, utilizzano l'SA appena creata per negoziare Security Association per altri protocolli (IPsec SA);
 
----
-
-*SSL/TLS*
+# SSL/TLS
 
 Una valida alternativa all'IPsec è rappresentata dai protocolli SSL/TLS (Security Sockets Layer/Transport Layer security). Le differenze tra SSL e TLS sono minime, in genere vengono implementati entrambi rendendoli interoperabili, Il TSL è un protocollo del livello Session ed è uno standard IETF e deriva dal SSL.
 
@@ -90,7 +82,7 @@ Il protocollo SSL/TLS è composto da due livelli:
 
 Per realizzare un SSL/TSL bisogna utilizzare tale protocollo al posto di IKE nell'IPsec, per la fase di autenticazione degli estremi del tunnel e la creazione delle chiavi. Per definizione, SSL/TLS è un semplice protocollo Client/Server che ha lo scopo di autenticare il server da parte del client e, opzionalmente, anche il client da parte del server, e di creare un canale cifrato sicuro per la comunicazione tra i due.
 
-L’autenticazione si basa su **certificati digitali** firmati da una Certification Authority (CA)**. Il server invia il proprio certificato al client, che ne verifica la validità controllando la firma digitale. Se valida, il server viene autenticato, altrimenti la connessione fallisce. I passaggi per una connessione sicura sono:
+L’autenticazione si basa su **certificati digitali** firmati da una **Certification Authority (CA)**. Il server invia il proprio certificato al client, che ne verifica la validità controllando la firma digitale. Se valida, il server viene autenticato, altrimenti la connessione fallisce. I passaggi per una connessione sicura sono:
 - **Client → Server**: invia la richiesta di connessione con gli algoritmi di crittografia supportati e un valore random per la pre-master key;
 - **Server → Client**: invia il certificato digitale, la scelta degli algoritmi e il proprio valore random;
 - **Client → Server**: verifica il certificato, invia il proprio certificato e la pre-master key cifrata con la chiave pubblica del server, poi richiede il passaggio alla comunicazione cifrata;
@@ -103,9 +95,7 @@ Mettendo a confronto i due protocolli, IPsec e SSL/TLS:
 - **SSL/TLS opera a livello Session**, proteggendo i dati fino alla consegna. **IPsec opera a livello Network**, proteggendo tutto il traffico IP ma non i dati dopo l’arrivo all’host;
 - **SSL/TLS funziona solo con TCP**, mentre IPsec protegge tutti i protocolli sopra IP (TCP, UDP, ICMP);
 
----
-
-*Classificazione della VPN in Base alla Sicurezza*
+# Classificazione della VPN in Base alla Sicurezza
 
 In base ai protocolli che utilizzano e al grado di sicurezza che garantiscono, possiamo classificare le VPN in 3 categorie:
 
@@ -120,7 +110,7 @@ In base ai protocolli che utilizzano e al grado di sicurezza che garantiscono, p
 
 I protocolli e le tecnologie utilizzate dalle secure VPN sono le seguenti:
 - IPsec;
-- - SSL/TSL;
+- SSL/TSL;
 - PPTP (point-to-point Tunneling Protocol);
 - SOCKS Protocol;
 - L2TP (Layer 2 Tunneling Protocol);

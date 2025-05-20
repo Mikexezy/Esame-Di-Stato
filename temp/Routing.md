@@ -12,7 +12,7 @@ Il routing (instradamento) è una funzione del livello Network del modello TCP/I
 
 Un router è un dispositivo hardware dedicato a far comunicare reti differenti ed eterogenee, instradando i pacchetti nella giusta direzione. È connesso a due o più reti e decide il percorso che i dati devono seguire, basandosi sulle informazioni sullo stato delle reti collegate.
 
-La funzione principale del router è quella di reindirizzare i messaggi tra reti di computer affinché possano raggiungere la destinazione finale. Le due attività fondamentali che svolge sono: la scelta del percorso migliore (routing) e l’invio dei pacchetti sull’interfaccia di uscita corretta (forwarding).
+Le due attività fondamentali che svolge sono: la scelta del percorso migliore (routing) e l’invio dei pacchetti sull’interfaccia di uscita corretta (forwarding).
 
 Un router, essendo un computer dedicato al routing, necessita di un sistema operativo. Dal punto di vista hardware deve avere almeno due schede di rete. Un router dotato di una scheda di rete verso la LAN e una verso la WAN può essere configurato come gateway, condividendo l’accesso a Internet per tutti i computer della rete locale. In questo caso, l’interfaccia del router che funge da gateway diventa la “via di uscita” degli host dalla LAN.
 
