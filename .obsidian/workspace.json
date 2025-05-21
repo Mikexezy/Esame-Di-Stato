@@ -4,61 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "67d84a883948635e",
+        "id": "225db0e537c19847",
         "type": "tabs",
         "children": [
-          {
-            "id": "e7d232ac6dde53f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Attori, Casi d'Uso e Scenari.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attori, Casi d'Uso e Scenari"
-            }
-          },
-          {
-            "id": "dfb5ec104a390289",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/TPSIT/IngegneriaDelSoftware.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "IngegneriaDelSoftware"
-            }
-          },
           {
             "id": "d5c9eadc9983b2be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Italiano.md",
+                "file": "Giuseppe Ungaretti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Italiano"
+              "title": "Giuseppe Ungaretti"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "67d84a883948635e",
+        "type": "tabs",
+        "children": [
           {
             "id": "e9d7592bd13c05df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "canvas",
+              "state": {
+                "file": "Senza nome.canvas",
+                "viewState": {
+                  "x": 1324.3815996850028,
+                  "y": 662.7040871222594,
+                  "zoom": -1.5756777558256532
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Senza nome"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Senza nome.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a Senza nome"
             }
           },
           {
@@ -149,11 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Senza nome.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Senza nome"
             }
           },
           {
@@ -177,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Senza nome.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Senza nome"
             }
           },
           {
@@ -215,8 +204,9 @@
   },
   "active": "e9d7592bd13c05df",
   "lastOpenFiles": [
-    "MOC/Italiano.md",
     "Giuseppe Ungaretti.md",
+    "Senza nome.canvas",
+    "MOC/Italiano.md",
     "Senza nome",
     "README.md",
     "Italiano.md",
