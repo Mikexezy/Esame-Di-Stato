@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MOC/Italiano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Italiano"
             }
           },
           {
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Sistemi e Reti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Sistemi e Reti"
+              "title": "Riferimenti"
             }
           },
           {
@@ -150,12 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/Sistemi e Reti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Sistemi e Reti"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -179,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Sistemi e Reti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Sistemi e Reti"
+              "title": "Struttura"
             }
           },
           {
@@ -216,10 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5c9eadc9983b2be",
+  "active": "e9d7592bd13c05df",
   "lastOpenFiles": [
-    "Italiano.md",
+    "MOC/Italiano.md",
+    "Giuseppe Ungaretti.md",
+    "Senza nome",
     "README.md",
+    "Italiano.md",
     "Gabriele D'annunzio.md",
     "MOC/Sistemi e Reti.md",
     "MOC/TPSIT.md",
@@ -238,7 +238,6 @@
     "note/La specifica dei Requisiti.md",
     "note/Raccolta e Analisi dei Requisiti.md",
     "PDF/TPSIT/Raccolta e Analisi dei Requisiti.pdf",
-    "PDF/TPSIT",
     "PDF/Sistemi/Indice.md",
     "note/Efficienza e Sicurezza nelle Reti Locali.md",
     "note/Firewall e Proxy.md",
