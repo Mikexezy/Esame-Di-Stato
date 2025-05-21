@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingegneria del Software.md",
+                "file": "temp/Ingegneria del Software.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La specifica dei Requisiti.md",
+                "file": "temp/La specifica dei Requisiti.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raccolta e Analisi dei Requisiti.md",
+                "file": "temp/Raccolta e Analisi dei Requisiti.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attori, Casi d'Uso e Scenari.md",
+                "file": "temp/Attori, Casi d'Uso e Scenari.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La Documentazione dei Requisiti.md",
+                "file": "temp/La Documentazione dei Requisiti.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,16 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I Principi S.O.L.I.D..md",
+                "file": "temp/I Principi S.O.L.I.D..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "I Principi S.O.L.I.D."
             }
+          },
+          {
+            "id": "adb3da7ab97a18b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd561513b97e31ae",
@@ -251,14 +260,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baa9f36ee47de7fa",
+  "active": "70ceb3436fc73075",
   "lastOpenFiles": [
-    "I Principi S.O.L.I.D..md",
-    "La Documentazione dei Requisiti.md",
-    "Attori, Casi d'Uso e Scenari.md",
-    "Raccolta e Analisi dei Requisiti.md",
-    "La specifica dei Requisiti.md",
-    "Ingegneria del Software.md",
+    "temp/I Principi S.O.L.I.D..md",
+    "temp/La Documentazione dei Requisiti.md",
+    "temp/Attori, Casi d'Uso e Scenari.md",
+    "temp/Raccolta e Analisi dei Requisiti.md",
+    "temp/La specifica dei Requisiti.md",
+    "temp/Ingegneria del Software.md",
     "MOC/TPSIT.md",
     "pdf Sistemi/Crittografia.pdf",
     "pdf Sistemi",
