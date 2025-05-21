@@ -33,7 +33,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Senza nome.canvas",
+                "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "viewState": {
                   "x": 1324.3815996850028,
                   "y": 662.7040871222594,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Senza nome"
+              "title": "Ungaretti"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senza nome.canvas",
+                "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Senza nome"
+              "title": "Riferimenti a Ungaretti"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senza nome.canvas",
+                "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Senza nome"
+              "title": "Collegamenti in uscita da Ungaretti"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senza nome.canvas",
+                "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Senza nome"
+              "title": "Struttura di Ungaretti"
             }
           },
           {
@@ -202,12 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9d7592bd13c05df",
+  "active": "70ceb3436fc73075",
   "lastOpenFiles": [
+    "Mappe Concettuali/Italiano",
+    "Mappe Concettuali",
     "Giuseppe Ungaretti.md",
-    "Senza nome.canvas",
+    "Mappe Concettuali/Italiano/Ungaretti.canvas",
     "MOC/Italiano.md",
-    "Senza nome",
     "README.md",
     "Italiano.md",
     "Gabriele D'annunzio.md",
