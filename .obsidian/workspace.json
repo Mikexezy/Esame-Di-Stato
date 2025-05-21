@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0297325c3ee84b10",
+        "id": "67d84a883948635e",
         "type": "tabs",
         "children": [
           {
-            "id": "5df0914ee4556fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/Ingegneria del Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ingegneria del Software"
-            }
-          },
-          {
-            "id": "e8089b656469db85",
+            "id": "e7d232ac6dde53f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,63 +22,7 @@
             }
           },
           {
-            "id": "f7576196d68599e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/Raccolta e Analisi dei Requisiti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raccolta e Analisi dei Requisiti"
-            }
-          },
-          {
-            "id": "8db6e47cd5df7305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/Attori, Casi d'Uso e Scenari.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attori, Casi d'Uso e Scenari"
-            }
-          },
-          {
-            "id": "60677c513cbfe184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/La Documentazione dei Requisiti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La Documentazione dei Requisiti"
-            }
-          },
-          {
-            "id": "baa9f36ee47de7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/I Principi S.O.L.I.D..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I Principi S.O.L.I.D."
-            }
-          },
-          {
-            "id": "adb3da7ab97a18b8",
+            "id": "e9d7592bd13c05df",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -101,8 +31,7 @@
               "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,43 +189,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ceb3436fc73075",
+  "active": "e7d232ac6dde53f5",
   "lastOpenFiles": [
-    "temp/I Principi S.O.L.I.D..md",
     "temp/La Documentazione dei Requisiti.md",
-    "temp/Attori, Casi d'Uso e Scenari.md",
-    "temp/Raccolta e Analisi dei Requisiti.md",
-    "temp/La specifica dei Requisiti.md",
-    "temp/Ingegneria del Software.md",
+    "temp/I Principi S.O.L.I.D..md",
     "MOC/TPSIT.md",
-    "pdf Sistemi/Crittografia.pdf",
-    "pdf Sistemi",
+    "temp/La specifica dei Requisiti.md",
+    "temp/Attori, Casi d'Uso e Scenari.md",
     "MOC/Sistemi e Reti.md",
-    "temp/Reti Wireless.md",
-    "pdf Sistemi/Reti Wireless.pdf",
-    "temp/VPN.md",
-    "pdf Sistemi/VPN.pdf",
-    "temp/Firewall e Proxy.md",
-    "pdf Sistemi/Firewall e Proxy.pdf",
-    "temp/Efficienza e Sicurezza nelle Reti Locali.md",
-    "pdf Sistemi/Efficienza e Sicurezza nelle Reti Locali.pdf",
-    "temp/Crittografia.md",
-    "temp/DHCP e DNS.md",
-    "pdf Sistemi/DHCP e DNS.pdf",
-    "temp/Il Transport Layer del TCP IP.md",
-    "pdf Sistemi/Il Transport Layer del TCP IP.pdf",
-    "temp/Routing.md",
-    "pdf Sistemi/Routing.pdf",
-    "Toto che continua a non fidarsela di informatica.md",
-    "Remote-access VPN.md",
-    "Proxy.md",
-    "temp/DMZ.md",
-    "temp/PAT.md",
-    "temp/NAT.md",
-    "temp/Access Control List.md",
-    "temp/Proxy.md",
+    "PDF/Sistemi/Indice.md",
+    "PDF",
+    "note/Efficienza e Sicurezza nelle Reti Locali.md",
+    "note/Firewall e Proxy.md",
+    "temp/Ingegneria del Software.md",
+    "PDF/Sistemi/VPN.pdf",
+    "PDF/Sistemi/Firewall e Proxy.pdf",
+    "PDF/Sistemi/Crittografia.pdf",
+    "PDF/Sistemi/DHCP e DNS.pdf",
+    "PDF/Sistemi/Routing.pdf",
+    "PDF/Sistemi/Il Transport Layer del TCP IP.pdf",
+    "PDF/Sistemi/Reti Wireless.pdf",
+    "note/Routing.md",
+    "note/Il Transport Layer del TCP IP.md",
+    "note/DHCP e DNS.md",
+    "note/Crittografia.md",
     "README.md",
-    "tem.md",
-    "temp"
+    "note/VPN.md",
+    "note/Reti Wireless.md",
+    "temp/Raccolta e Analisi dei Requisiti.md",
+    "PDF/Sistemi/Efficienza e Sicurezza nelle Reti Locali.pdf",
+    "PDF/Sistemi",
+    "tem.md"
   ]
 }

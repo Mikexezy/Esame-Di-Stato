@@ -2,7 +2,7 @@
 connections:
   - "[[TPSIT]]"
 ---
-## Riassunto Esteso: Requisiti Software e Stakeholder
+## Requisiti Software e Stakeholder
 
 Un requisito è una proprietà richiesta o auspicabile del prodotto. Il documento dei requisiti contiene una descrizione di tutte le proprietà desiderate e include ogni informazione circa la funzionalità, i servizi, le modalità operative e di gestione del sistema da sviluppare. La definizione dei requisiti rappresenta un'analisi completa dei bisogni dell'utente e del dominio del problema, allo scopo di determinare cosa il sistema deve fare.
 
