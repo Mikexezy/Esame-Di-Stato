@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giuseppe Ungaretti.md",
+                "file": "note/Giuseppe Ungaretti.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "viewState": {
-                  "x": 1324.3815996850028,
-                  "y": 662.7040871222594,
-                  "zoom": -1.5756777558256532
+                  "x": 50.96123923211846,
+                  "y": -26.595500554798747,
+                  "zoom": -0.4856547094910683
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,12 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ceb3436fc73075",
+  "active": "e9d7592bd13c05df",
   "lastOpenFiles": [
+    "note/Giuseppe Ungaretti.md",
+    "temp/Italo Svevo.md",
+    "Mappe Concettuali/Italiano/Ungaretti.canvas",
     "Mappe Concettuali/Italiano",
     "Mappe Concettuali",
-    "Giuseppe Ungaretti.md",
-    "Mappe Concettuali/Italiano/Ungaretti.canvas",
     "MOC/Italiano.md",
     "README.md",
     "Italiano.md",
@@ -228,7 +229,6 @@
     "note/La Documentazione dei Requisiti.md",
     "note/La specifica dei Requisiti.md",
     "note/Raccolta e Analisi dei Requisiti.md",
-    "PDF/TPSIT/Raccolta e Analisi dei Requisiti.pdf",
     "PDF/Sistemi/Indice.md",
     "note/Efficienza e Sicurezza nelle Reti Locali.md",
     "note/Firewall e Proxy.md",

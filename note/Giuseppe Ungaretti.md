@@ -111,5 +111,3 @@ Appartenente alla raccolta *Il Dolore* (1947), *La Madre* segna una svolta nella
 La figura materna ha una **valenza spirituale**: è **intermediaria tra Dio e il poeta**, simbolo di **salvezza** e **amore eterno**. La morte, qui, non ha i toni drammatici della guerra, ma viene vista come un **passaggio verso la luce** divina.
 
 > Il **sentimento cristiano** pervade la lirica, rendendo la fine della vita **non più oscura**, ma **necessaria per raggiungere la salvezza**.
-
----
