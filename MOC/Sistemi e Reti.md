@@ -1,7 +1,6 @@
 #moc
 
 # Indice
-
 1. [[Routing]]
 2. [[Il Transport Layer del TCP IP]]
 3. [[DHCP e DNS]]
