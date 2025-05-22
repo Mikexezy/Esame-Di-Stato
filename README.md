@@ -92,7 +92,7 @@ Questo vault può diventare ancora più potente con il tuo aiuto! Se hai:
 
 **Come contribuire:**
 1.  Apri una **Issue** 📝 per segnalazioni o proposte.
-2.  Crea una **Pull Request** मर्ज (se hai dimestichezza con Git/GitHub).
+2.  Crea una **Pull Request** (se hai dimestichezza con Git/GitHub).
 
 *Insieme, creiamo la risorsa N°1 per i maturandi!*
 
@@ -114,5 +114,5 @@ Studia con metodo, affronta le prove con serenità e **fai vedere chi sei!** �
 ---
 
 <p align="center">
-  <em>Realizzato con ❤️, ☕ e la potenza di Obsidian.</em>
+  <em>Realizzato con ❤️, e la potenza di Obsidian.</em>
 </p>
