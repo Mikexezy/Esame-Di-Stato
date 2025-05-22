@@ -11,33 +11,13 @@
             "id": "d5c9eadc9983b2be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Giuseppe Ungaretti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giuseppe Ungaretti"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67d84a883948635e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9d7592bd13c05df",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "viewState": {
-                  "x": -564.07421875,
-                  "y": -51.171875,
-                  "zoom": 0
+                  "x": -26.854751530032072,
+                  "y": -61.218980681022245,
+                  "zoom": -0.019220034706931663
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,11 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9d7592bd13c05df",
+  "active": "d5c9eadc9983b2be",
   "lastOpenFiles": [
     "note/Giuseppe Ungaretti.md",
-    "temp/Italo Svevo.md",
     "Mappe Concettuali/Italiano/Ungaretti.canvas",
+    "temp/Italo Svevo.md",
     "Mappe Concettuali/Italiano",
     "Mappe Concettuali",
     "MOC/Italiano.md",
