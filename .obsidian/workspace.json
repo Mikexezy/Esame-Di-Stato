@@ -6,6 +6,7 @@
       {
         "id": "225db0e537c19847",
         "type": "tabs",
+        "dimension": 18.949044585987263,
         "children": [
           {
             "id": "d5c9eadc9983b2be",
@@ -26,6 +27,7 @@
       {
         "id": "67d84a883948635e",
         "type": "tabs",
+        "dimension": 81.05095541401273,
         "children": [
           {
             "id": "e9d7592bd13c05df",
@@ -35,8 +37,8 @@
               "state": {
                 "file": "Mappe Concettuali/Italiano/Ungaretti.canvas",
                 "viewState": {
-                  "x": -564.07421875,
-                  "y": -51.171875,
+                  "x": 2226.984375,
+                  "y": 1277.8907775878904,
                   "zoom": 0
                 }
               },
