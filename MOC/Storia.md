@@ -2,4 +2,6 @@
 
 Indice
 1. Seconda Guerra Mondiale
-	3. [[Terza Parte]]
+	1. [[Prima Parte WWII]]
+	2. [[Seconda Parte WWII]]
+	3. [[Terza Parte WWII]]

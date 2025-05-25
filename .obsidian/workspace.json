@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terza Parte.md",
+                "file": "note/Terza Parte WWII.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terza Parte"
+              "title": "Terza Parte WWII"
             }
           }
         ]
@@ -181,14 +181,17 @@
   },
   "active": "8e6dcdee69007e2a",
   "lastOpenFiles": [
-    "Il Processo di Produzione del Software.md",
+    "PDF/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
+    "PDF/Storia/Seconda Guerra Mondiale",
+    "PDF/Storia",
+    "MOC/Storia.md",
+    "note/Terza Parte WWII.md",
     "Terza Parte.md",
+    "Il Processo di Produzione del Software.md",
     "README.md",
     "MOC/Italiano.md",
     "MOC/Gestione.md",
     "MOC/TPSIT.md",
-    "MOC/Storia.md",
-    "Senza nome.md",
     "temp/Italo Svevo.md",
     "I Fattori Economici.md",
     "note/Giuseppe Ungaretti.md",
@@ -208,15 +211,12 @@
     "note/I Principi S.O.L.I.D..md",
     "note/Ingegneria del Software.md",
     "PDF/TPSIT/La specifica dei Requisiti.pdf",
-    "PDF/TPSIT/I Principi S.O.L.I.D..pdf",
-    "PDF/TPSIT/Attori, Casi d'Uso e Scenari.pdf",
     "note/La Documentazione dei Requisiti.md",
     "note/La specifica dei Requisiti.md",
     "note/Raccolta e Analisi dei Requisiti.md",
     "PDF/Sistemi/Indice.md",
     "note/Efficienza e Sicurezza nelle Reti Locali.md",
     "note/Firewall e Proxy.md",
-    "note/Routing.md",
-    "note/Il Transport Layer del TCP IP.md"
+    "note/Routing.md"
   ]
 }
