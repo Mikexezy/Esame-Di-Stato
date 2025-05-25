@@ -11,10 +11,14 @@
             "id": "8e6dcdee69007e2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Storia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Storia"
             }
           }
         ]
@@ -177,6 +181,8 @@
   },
   "active": "8e6dcdee69007e2a",
   "lastOpenFiles": [
+    "Senza nome.md",
+    "Storia.md",
     "temp/Italo Svevo.md",
     "I Fattori Economici.md",
     "Il Processo di Produzione del Software.md",
@@ -211,7 +217,6 @@
     "note/Firewall e Proxy.md",
     "note/Routing.md",
     "note/Il Transport Layer del TCP IP.md",
-    "note/DHCP e DNS.md",
-    "note/Crittografia.md"
+    "note/DHCP e DNS.md"
   ]
 }
