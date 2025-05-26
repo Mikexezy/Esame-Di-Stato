@@ -11,14 +11,12 @@
             "id": "8e6dcdee69007e2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "note/I Fattori Economici.md",
-                "mode": "source",
-                "source": false
+                "file": "Easy.pdf"
               },
-              "icon": "lucide-file",
-              "title": "I Fattori Economici"
+              "icon": "lucide-file-text",
+              "title": "Easy"
             }
           }
         ]
@@ -179,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ceb3436fc73075",
+  "active": "8e6dcdee69007e2a",
   "lastOpenFiles": [
+    "note/I Fattori Economici.md",
     "I Fattori Economici.pdf",
     "Il Processo di Produzione del Software.pdf",
     "PDF/Sistemi/SistemiEReti.pdf",
@@ -201,7 +200,6 @@
     "MOC/Gestione.md",
     "MOC/TPSIT.md",
     "temp/Italo Svevo.md",
-    "note/I Fattori Economici.md",
     "note/Giuseppe Ungaretti.md",
     "Mappe Concettuali/Italiano/Ungaretti.canvas",
     "Italiano.md",
