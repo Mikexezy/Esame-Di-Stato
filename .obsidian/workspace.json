@@ -11,10 +11,14 @@
             "id": "3fd1b922b12cb65b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -175,8 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fd1b922b12cb65b",
+  "active": "b9f3e58677fa017b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "note/Terza Parte WWII.md",
+    "PDF/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
+    "PDF/Storia/Seconda Guerra Mondiale",
+    "PDF/Storia",
+    "MOC/Storia.md",
     "Il Processo di Produzione del Software.md",
     "Il Processo di Produzione del Software.pdf",
     "I Fattori Economici.md",
@@ -197,12 +207,9 @@
     "PDF/TPSIT/IngegneriaDelSoftware.pdf",
     "PDF/Sistemi/SistemiEReti.pdf",
     "PDF/Sistemi/Crittografia.pdf",
-    "PDF/TPSIT/Ingegneria del Software.pdf",
-    "PDF/TPSIT/La Documentazione dei Requisiti.pdf",
     "note/Attori, Casi d'Uso e Scenari.md",
     "note/I Principi S.O.L.I.D..md",
     "note/Ingegneria del Software.md",
-    "PDF/TPSIT/La specifica dei Requisiti.pdf",
     "note/La Documentazione dei Requisiti.md",
     "note/La specifica dei Requisiti.md",
     "note/Raccolta e Analisi dei Requisiti.md",
@@ -210,8 +217,6 @@
     "note/Efficienza e Sicurezza nelle Reti Locali.md",
     "note/Firewall e Proxy.md",
     "note/Routing.md",
-    "note/Il Transport Layer del TCP IP.md",
-    "note/DHCP e DNS.md",
-    "note/Crittografia.md"
+    "note/Il Transport Layer del TCP IP.md"
   ]
 }
