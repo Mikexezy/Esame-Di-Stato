@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/I Fattori Economici.md",
+                "file": "MOC/Gestione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Fattori Economici"
+              "title": "Gestione"
             }
           }
         ]
@@ -179,37 +179,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "8e6dcdee69007e2a",
   "lastOpenFiles": [
+    "MOC/Italiano.md",
+    "MOC/Gestione.md",
+    "note/Il Processo di Produzione del Software.md",
+    "PDF/Storia/Seconda Guerra Mondiale/Easy.pdf",
+    "temp/Italo Svevo.md",
+    "Le Premesse del Conflitto Mondiale.pdf",
+    "Seconda Guerra Mondiale Completo.pdf",
+    "Il Riarmo e la Guerra Civile Spagnola.pdf",
+    "PDF/Gestione/Il Processo di Produzione del Software.pdf",
+    "note/Ingegneria del Software.md",
+    "Mappe Concettuali/Italiano/Ungaretti.canvas",
+    "MOC/Sistemi e Reti.md",
+    "MOC/TPSIT.md",
+    "PDF/Gestione/I Fattori Economici.pdf",
+    "PDF/Gestione",
     "note/I Fattori Economici.md",
     "conflict-files-obsidian-git.md",
     "Easy.pdf",
-    "PDF/Storia/Seconda Guerra Mondiale/Easy.pdf",
-    "I Fattori Economici.pdf",
-    "Il Processo di Produzione del Software.pdf",
     "PDF/Sistemi/SistemiEReti.pdf",
-    "Seconda Guerra Mondiale Completo.pdf",
-    "Le Premesse del Conflitto Mondiale.pdf",
-    "Il Riarmo e la Guerra Civile Spagnola.pdf",
     "note/Terza Parte WWII.md",
     "PDF/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
-    "PDF/Storia/Seconda Guerra Mondiale",
     "MOC/Storia.md",
     "Terza Parte.md",
-    "Il Processo di Produzione del Software.md",
     "README.md",
-    "MOC/Italiano.md",
-    "MOC/Gestione.md",
-    "MOC/TPSIT.md",
-    "temp/Italo Svevo.md",
     "note/Giuseppe Ungaretti.md",
-    "Mappe Concettuali/Italiano/Ungaretti.canvas",
     "Italiano.md",
     "Gabriele D'annunzio.md",
-    "MOC/Sistemi e Reti.md",
     "note/Attori, Casi d'Uso e Scenari.md",
     "note/I Principi S.O.L.I.D..md",
-    "note/Ingegneria del Software.md",
     "note/La Documentazione dei Requisiti.md",
     "note/La specifica dei Requisiti.md",
     "note/Raccolta e Analisi dei Requisiti.md",
