@@ -11,12 +11,14 @@
             "id": "8e6dcdee69007e2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/Sistemi/SistemiEReti.pdf"
+                "file": "note/I Fattori Economici.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SistemiEReti"
+              "icon": "lucide-file",
+              "title": "I Fattori Economici"
             }
           }
         ]
@@ -177,15 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "70ceb3436fc73075",
   "lastOpenFiles": [
+    "I Fattori Economici.pdf",
+    "Il Processo di Produzione del Software.pdf",
     "PDF/Sistemi/SistemiEReti.pdf",
     "conflict-files-obsidian-git.md",
     "Seconda Guerra Mondiale Completo.pdf",
     "Le Premesse del Conflitto Mondiale.pdf",
     "Il Riarmo e la Guerra Civile Spagnola.pdf",
-    "Il Processo di Produzione del Software.pdf",
-    "I Fattori Economici.pdf",
     "Easy.pdf",
     "note/Terza Parte WWII.md",
     "PDF/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
@@ -199,10 +201,9 @@
     "MOC/Gestione.md",
     "MOC/TPSIT.md",
     "temp/Italo Svevo.md",
-    "I Fattori Economici.md",
+    "note/I Fattori Economici.md",
     "note/Giuseppe Ungaretti.md",
     "Mappe Concettuali/Italiano/Ungaretti.canvas",
-    "Mappe Concettuali/Italiano",
     "Italiano.md",
     "Gabriele D'annunzio.md",
     "MOC/Sistemi e Reti.md",
