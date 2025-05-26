@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Gestione.md",
+                "file": "MOC/TPSIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestione"
+              "title": "TPSIT"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "8e6dcdee69007e2a",
   "lastOpenFiles": [
-    "MOC/Italiano.md",
     "MOC/Gestione.md",
+    "MOC/Italiano.md",
     "note/Il Processo di Produzione del Software.md",
     "PDF/Storia/Seconda Guerra Mondiale/Easy.pdf",
     "temp/Italo Svevo.md",

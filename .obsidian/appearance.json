@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "textFontFamily": "Arial Unicode MS",
   "baseFontSize": 14,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "translucency": true
 }
