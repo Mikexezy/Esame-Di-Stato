@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Commerce.md",
+                "file": "note/Web Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E-Commerce"
+              "title": "Web Today"
             }
           }
         ],
@@ -196,12 +196,13 @@
   },
   "active": "d7f3afdcf07c8bbe",
   "lastOpenFiles": [
+    "note/Web Today.md",
+    "note/Web Today.md",
+    "MOC/Inglese.md",
+    "note/E-Commerce.md",
     "assets/pdf/Inglese/Web Today.pdf",
-    "E-Commerce.md",
-    "Web Today.md",
     "README.md",
     "Lezioni Salvatore.md",
-    "MOC/Inglese.md",
     "note/Connecting to the Internet.md",
     "note/Online Dangers.md",
     "note/Web Apps.md",
@@ -210,7 +211,6 @@
     "MOC/Informatica.md",
     "assets/pdf/Inglese/Web Apps.pdf",
     "Web App.md",
-    "note/Web Today.md",
     "MOC/Italiano.md",
     "MOC/Sistemi e Reti.md",
     "MOC/Storia.md",
