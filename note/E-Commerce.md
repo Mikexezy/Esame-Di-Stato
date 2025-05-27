@@ -17,14 +17,14 @@ To use EFT, you usually need a **credit card** or **smart card**.
 
 ### **Advantages of E-commerce**
 
-#### ✅ For Businesses:
+#### For Businesses:
 
 1. Reduced operational costs;
 2. Faster, more convenient transactions;
 3. Access to larger, global markets;
 4. Better customer data management;
 
-#### ✅ For Customers:
+#### For Customers:
 
 1. Easy access to many products;
 2. A wide range of items available;
@@ -33,12 +33,12 @@ To use EFT, you usually need a **credit card** or **smart card**.
 
 ### **Disadvantages of E-commerce**
 
-#### ❌ For Businesses:
+#### For Businesses:
 
 1. Expensive to set up and manage (staff, training, ads...);
 2. High risk of online fraud;
 
-#### ❌ For Customers:
+#### For Customers:
 
 1. Products can't be checked physically;
 2. Fear of scams or fraud;

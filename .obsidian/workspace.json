@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Web Today.md",
+                "file": "note/E-Commerce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Today"
+              "title": "E-Commerce"
             }
           }
         ],
@@ -196,9 +196,8 @@
   },
   "active": "d7f3afdcf07c8bbe",
   "lastOpenFiles": [
-    "note/Web Today.md",
-    "note/Web Today.md",
     "MOC/Inglese.md",
+    "note/Web Today.md",
     "note/E-Commerce.md",
     "assets/pdf/Inglese/Web Today.pdf",
     "README.md",
