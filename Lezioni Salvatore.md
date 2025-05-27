@@ -1,3 +1,7 @@
+---
+connections:
+  - "[[Informatica]]"
+---
 ## Modello E/R
 
 ![[ProvaEsame1.png]]
