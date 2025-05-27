@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/E-Commerce.md",
+                "file": "note/Web Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E-Commerce"
+              "title": "Web Apps"
             }
           }
         ],
@@ -197,8 +197,11 @@
   "active": "d7f3afdcf07c8bbe",
   "lastOpenFiles": [
     "MOC/Inglese.md",
-    "note/Web Today.md",
+    "assets/pdf/Gestione/Unità5.pdf",
+    "MOC/Sistemi e Reti.md",
+    "MOC/Storia.md",
     "note/E-Commerce.md",
+    "note/Web Today.md",
     "assets/pdf/Inglese/Web Today.pdf",
     "README.md",
     "Lezioni Salvatore.md",
@@ -211,12 +214,9 @@
     "assets/pdf/Inglese/Web Apps.pdf",
     "Web App.md",
     "MOC/Italiano.md",
-    "MOC/Sistemi e Reti.md",
-    "MOC/Storia.md",
     "MOC/TPSIT.md",
     "MOC/Gestione.md",
     "assets/pdf/Inglese",
-    "assets/pdf/Gestione/Unità5.pdf",
     "assets/pdf/Gestione/I Fattori Economici.pdf",
     "assets/pdf/Gestione/Il Processo di Produzione del Software.pdf",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",

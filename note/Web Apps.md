@@ -2,7 +2,7 @@
 connections:
   - "[[Inglese]]"
 ---
-Traditional applications** are heavy programs that require a lot of memory and are used to perform general tasks (e.g., accounting or data processing).  
+**Traditional applications** are heavy programs that require a lot of memory and are used to perform general tasks (e.g., accounting or data processing).  
 **Web apps**, on the other hand, are much lighter and designed to perform a single, specific task.
 
 A good example is **Google Maps**, which offers useful features directly in your browser. With it, you can:
