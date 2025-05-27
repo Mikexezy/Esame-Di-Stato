@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senza nome.md",
+                "file": "E-Commerce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Senza nome"
+              "title": "E-Commerce"
             }
           }
         ],
@@ -196,26 +196,26 @@
   },
   "active": "d7f3afdcf07c8bbe",
   "lastOpenFiles": [
+    "assets/pdf/Inglese/Web Today.pdf",
+    "E-Commerce.md",
+    "Web Today.md",
     "README.md",
     "Lezioni Salvatore.md",
-    "E-Commerce.md",
-    "Senza nome.md",
-    "Web Today.md",
     "MOC/Inglese.md",
+    "note/Connecting to the Internet.md",
+    "note/Online Dangers.md",
+    "note/Web Apps.md",
+    "Senza nome.md",
     "conflict-files-obsidian-git.md",
     "MOC/Informatica.md",
     "assets/pdf/Inglese/Web Apps.pdf",
-    "note/Connecting to the Internet.md",
-    "note/Online Dangers.md",
     "Web App.md",
     "note/Web Today.md",
-    "note/Web Apps.md",
     "MOC/Italiano.md",
     "MOC/Sistemi e Reti.md",
     "MOC/Storia.md",
     "MOC/TPSIT.md",
     "MOC/Gestione.md",
-    "assets/pdf/Inglese/Web Today.pdf",
     "assets/pdf/Inglese",
     "assets/pdf/Gestione/Unità5.pdf",
     "assets/pdf/Gestione/I Fattori Economici.pdf",
@@ -241,7 +241,6 @@
     "assets/img",
     "assets",
     "PON Informatica].md",
-    "note/Ingegneria del Software.md",
     "assets/canvas/Italiano/Ungaretti.canvas"
   ]
 }

@@ -2,8 +2,6 @@
 connections:
   - "[[Inglese]]"
 ---
-
-
 **E-commerce** means buying and selling goods or services using the Internet.  
 It can happen through:
 

@@ -2,7 +2,6 @@
 connections:
   - "[[Inglese]]"
 ---
-
 Since the 1990s and the rise of **Web 2.0**, internet users are no longer just passive consumers: they now actively participate by creating and sharing content online.  
 Web usage has expanded into several main areas:
 
