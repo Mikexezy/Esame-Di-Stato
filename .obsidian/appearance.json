@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "textFontFamily": "Arial Unicode MS",
-  "baseFontSize": 19,
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
   "translucency": true
 }
