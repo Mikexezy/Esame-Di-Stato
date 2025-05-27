@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Inglese.md",
+                "file": "note/Web Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inglese"
+              "title": "Web Apps"
             }
           },
           {
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Web Today"
             }
-          },
-          {
-            "id": "6a07da40d954f411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Commerce.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E-Commerce"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "b0b21d25d2d218ae",
   "lastOpenFiles": [
+    "MOC/Inglese.md",
+    "Web Today.md",
+    "assets/pdf/Inglese/Web Apps.pdf",
     "E-Commerce.md",
     "conflict-files-obsidian-git.md",
     "note/Web Today.md",
@@ -217,10 +205,7 @@
     "note/Online Dangers.md",
     "note/Connecting to the Internet.md",
     "assets/pdf/Inglese/Web Today.pdf",
-    "assets/pdf/Inglese/Web Apps.pdf",
     "assets/pdf/Inglese",
-    "MOC/Inglese.md",
-    "Web Today.md",
     "Web Apps.md",
     "Senza nome.md",
     "note/Quarta Lezione PON.md",
@@ -251,7 +236,6 @@
     "I Fattori Economici.md",
     "MOC/Gestione.md",
     "MOC/Italiano.md",
-    "I Progetti Informatici.md",
     "Mappe Concettuali/Italiano/Ungaretti.canvas"
   ]
 }
