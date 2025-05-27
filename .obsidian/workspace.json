@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "013e2182112abdc7",
+        "id": "ac0cb63dcfdec4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6dcdee69007e2a",
+            "id": "af00e52e4be4b78d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC/TPSIT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TPSIT"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -179,44 +175,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "af00e52e4be4b78d",
   "lastOpenFiles": [
-    "MOC/TPSIT.md",
-    "conflict-files-obsidian-git.md",
-    "Senza nome.md",
     "MOC/Inglese.md",
-    "MOC/Gestione.md",
-    "MOC/Italiano.md",
+    "Connecting to the Internet.md",
+    "Online Dangers.md",
+    "PDF/Sistemi/SistemiEReti.pdf",
+    "Web App.md",
+    "conflict-files-obsidian-git.md",
     "note/Il Processo di Produzione del Software.md",
-    "PDF/Storia/Seconda Guerra Mondiale/Easy.pdf",
-    "temp/Italo Svevo.md",
-    "Le Premesse del Conflitto Mondiale.pdf",
-    "Seconda Guerra Mondiale Completo.pdf",
-    "Il Riarmo e la Guerra Civile Spagnola.pdf",
     "PDF/Gestione/Il Processo di Produzione del Software.pdf",
-    "note/Ingegneria del Software.md",
-    "Mappe Concettuali/Italiano/Ungaretti.canvas",
-    "MOC/Sistemi e Reti.md",
     "PDF/Gestione/I Fattori Economici.pdf",
     "PDF/Gestione",
     "note/I Fattori Economici.md",
-    "Easy.pdf",
-    "PDF/Sistemi/SistemiEReti.pdf",
-    "note/Terza Parte WWII.md",
+    "I Fattori Economici.pdf",
     "PDF/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
+    "PDF/Storia/Seconda Guerra Mondiale/Easy.pdf",
+    "note/Terza Parte WWII.md",
+    "PDF/Storia/Seconda Guerra Mondiale",
+    "PDF/Storia",
     "MOC/Storia.md",
-    "Terza Parte.md",
-    "README.md",
+    "Il Processo di Produzione del Software.md",
+    "Il Processo di Produzione del Software.pdf",
+    "I Fattori Economici.md",
+    "MOC/Gestione.md",
+    "MOC/Italiano.md",
+    "I Progetti Informatici.md",
+    "MOC/TPSIT.md",
+    "MOC/Sistemi e Reti.md",
+    "Mappe Concettuali/Italiano/Ungaretti.canvas",
     "note/Giuseppe Ungaretti.md",
+    "temp/Italo Svevo.md",
+    "README.md",
     "Italiano.md",
     "Gabriele D'annunzio.md",
     "note/Attori, Casi d'Uso e Scenari.md",
     "note/I Principi S.O.L.I.D..md",
-    "note/La Documentazione dei Requisiti.md",
-    "note/La specifica dei Requisiti.md",
-    "note/Raccolta e Analisi dei Requisiti.md",
-    "PDF/Sistemi/Indice.md",
-    "note/Efficienza e Sicurezza nelle Reti Locali.md",
-    "note/Firewall e Proxy.md"
+    "note/Ingegneria del Software.md",
+    "note/La Documentazione dei Requisiti.md"
   ]
 }
