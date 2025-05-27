@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Apps.md",
+                "file": "MOC/Gestione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Apps"
+              "title": "Gestione"
             }
           }
         ]
@@ -181,33 +181,39 @@
   },
   "active": "3cbde9b51722e4f7",
   "lastOpenFiles": [
+    "MOC/Informatica.md",
+    "MOC/Gestione.md",
     "MOC/Inglese.md",
-    "Web Apps.md",
+    "MOC/Italiano.md",
+    "MOC/Sistemi e Reti.md",
+    "MOC/Storia.md",
+    "MOC/TPSIT.md",
+    "Lezioni Salvatore.md",
+    "assets/pdf/Inglese/Web Apps.pdf",
+    "assets/pdf/Inglese/Web Today.pdf",
+    "note/Web Today.md",
+    "note/Web Apps.md",
+    "assets/pdf/Inglese",
     "assets/pdf/Gestione/Unità5.pdf",
     "assets/pdf/Gestione/I Fattori Economici.pdf",
     "assets/pdf/Gestione/Il Processo di Produzione del Software.pdf",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
-    "MOC/Gestione.md",
     "note/Il Processo di Produzione del Software.md",
     "note/I Fattori Economici.md",
     "assets/img/ProvaEsame2.png",
     "Senza nome.canvas",
     "assets/img/ProvaEsame1.png",
     "note/Giuseppe Ungaretti.md",
-    "MOC/Italiano.md",
     "temp/Italo Svevo.md",
-    "Lezioni Salvatore.md",
     "README.md",
     "assets/img/modelloERSalvatore.png",
     "modelloERSalvatore.png",
     "Pasted image 20250527172053.png",
     "note/PON Informatica.md",
     "Pasted image 20250527165310.png",
-    "MOC/Informatica.md",
     "Senza nome.md",
     "note/Quarta Lezione PON.md",
     "Quarta Lezione PON.pdf",
-    "MOC/TPSIT.md",
     "Quarta Lezione PON.canvas",
     "assets/img/Quarta Lezione PON 2.png",
     "assets/img/Quarta Lezione PON.png",
@@ -215,18 +221,11 @@
     "assets",
     "PON Informatica].md",
     "conflict-files-obsidian-git.md",
-    "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
-    "Le Premesse del Conflitto Mondiale.pdf",
-    "Seconda Guerra Mondiale Completo.pdf",
     "note/Ingegneria del Software.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
-    "MOC/Sistemi e Reti.md",
     "note/Terza Parte WWII.md",
-    "MOC/Storia.md",
     "Terza Parte.md",
     "Italiano.md",
-    "Gabriele D'annunzio.md",
-    "note/Attori, Casi d'Uso e Scenari.md",
-    "note/I Principi S.O.L.I.D..md"
+    "Gabriele D'annunzio.md"
   ]
 }
