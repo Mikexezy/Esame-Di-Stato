@@ -11,12 +11,14 @@
             "id": "3cbde9b51722e4f7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/ProvaEsame2.png"
+                "file": "Web Apps.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ProvaEsame2"
+              "icon": "lucide-file",
+              "title": "Web Apps"
             }
           }
         ]
@@ -177,10 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "3cbde9b51722e4f7",
   "lastOpenFiles": [
-    "Senza nome.canvas",
+    "MOC/Inglese.md",
+    "Web Apps.md",
+    "assets/pdf/Gestione/Unità5.pdf",
+    "assets/pdf/Gestione/I Fattori Economici.pdf",
+    "assets/pdf/Gestione/Il Processo di Produzione del Software.pdf",
+    "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
+    "MOC/Gestione.md",
+    "note/Il Processo di Produzione del Software.md",
+    "note/I Fattori Economici.md",
     "assets/img/ProvaEsame2.png",
+    "Senza nome.canvas",
     "assets/img/ProvaEsame1.png",
     "note/Giuseppe Ungaretti.md",
     "MOC/Italiano.md",
@@ -196,9 +207,7 @@
     "Senza nome.md",
     "note/Quarta Lezione PON.md",
     "Quarta Lezione PON.pdf",
-    "MOC/Inglese.md",
     "MOC/TPSIT.md",
-    "MOC/Gestione.md",
     "Quarta Lezione PON.canvas",
     "assets/img/Quarta Lezione PON 2.png",
     "assets/img/Quarta Lezione PON.png",
@@ -206,18 +215,12 @@
     "assets",
     "PON Informatica].md",
     "conflict-files-obsidian-git.md",
-    "note/Il Processo di Produzione del Software.md",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
     "Le Premesse del Conflitto Mondiale.pdf",
     "Seconda Guerra Mondiale Completo.pdf",
-    "Il Riarmo e la Guerra Civile Spagnola.pdf",
-    "assets/pdf/Gestione/Il Processo di Produzione del Software.pdf",
     "note/Ingegneria del Software.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
     "MOC/Sistemi e Reti.md",
-    "assets/pdf/Gestione/I Fattori Economici.pdf",
-    "assets/pdf/Gestione",
-    "note/I Fattori Economici.md",
     "note/Terza Parte WWII.md",
     "MOC/Storia.md",
     "Terza Parte.md",
