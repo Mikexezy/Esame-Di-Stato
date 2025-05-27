@@ -1,6 +1,6 @@
 ## Modello E/R
 
-![[Screenshot 2025-05-27 alle 16.53.26.png]]
+![[ProvaEsame1.png]]
 
 - [ ] Viaggiatori
 - [ ] Percorsi
@@ -94,7 +94,7 @@ Lo saltiamo per velocità, 1 linea primary key, 2 linee foreign key
 
 ---
 
-![[Screenshot 2025-05-27 alle 17.21.24.png]]
+![[ProvaEsame2.png]]
 
 ## Prima Query
 
