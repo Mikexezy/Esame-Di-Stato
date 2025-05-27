@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Connecting to the Internet.md",
+                "file": "MOC/Inglese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connecting to the Internet"
+              "title": "Inglese"
             }
           }
         ],
@@ -196,8 +196,10 @@
   },
   "active": "d7f3afdcf07c8bbe",
   "lastOpenFiles": [
-    "note/Online Dangers.md",
+    "MOC/Informatica.md",
+    "assets/pdf/Inglese/Web Apps.pdf",
     "note/Connecting to the Internet.md",
+    "note/Online Dangers.md",
     "Lezioni Salvatore.md",
     "E-Commerce.md",
     "MOC/Inglese.md",
@@ -209,9 +211,7 @@
     "MOC/Storia.md",
     "MOC/TPSIT.md",
     "MOC/Gestione.md",
-    "MOC/Informatica.md",
     "conflict-files-obsidian-git.md",
-    "assets/pdf/Inglese/Web Apps.pdf",
     "assets/pdf/Inglese/Web Today.pdf",
     "assets/pdf/Inglese",
     "assets/pdf/Gestione/Unità5.pdf",
@@ -241,7 +241,6 @@
     "assets",
     "PON Informatica].md",
     "note/Ingegneria del Software.md",
-    "assets/canvas/Italiano/Ungaretti.canvas",
-    "note/Terza Parte WWII.md"
+    "assets/canvas/Italiano/Ungaretti.canvas"
   ]
 }
