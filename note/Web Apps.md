@@ -16,7 +16,7 @@ A good example is **Google Maps**, which offers useful features directly in your
 
 #### 1. **Access from Anywhere**
 
-Web apps store your data online, so you can access it from any device with an internet connection. You don’t need to carry your personal computer with you — your files, emails, and documents are always available through a browser.
+Web apps store your data online, so you can access it from any device with an internet connection. So you don’t need to carry your personal computer with you.
 
 #### 2. **Always Updated**
 
@@ -24,7 +24,7 @@ Web apps don’t need to be updated manually. Every time you open them, you’re
 
 #### 3. **Work on Any Device**
 
-A web app works on any device with a browser — computer, tablet, or phone — no matter the operating system. You’re not limited to Windows or Mac like with many traditional programs, making everything more flexible and user-friendly.
+A web app works on any device with a browser. You’re not limited to Windows or Mac like with many traditional programs, making everything more flexible and user-friendly.
 
 #### 4. **More Secure**
 

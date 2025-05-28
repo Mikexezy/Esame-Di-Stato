@@ -12,8 +12,7 @@ It can happen through:
 
 ### **Payments**
 
-Payments are made via **EFT (Electronic Funds Transfer)** — meaning money is transferred electronically (not using cash or cheques).  
-To use EFT, you usually need a **credit card** or **smart card**.
+Payments are made via **EFT (Electronic Funds Transfer)**. To use EFT, you usually need a **credit card** or **smart card**.
 
 ### **Advantages of E-commerce**
 

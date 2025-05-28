@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Web Apps"
             }
+          },
+          {
+            "id": "84655c87985dc88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,11 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7f3afdcf07c8bbe",
+  "active": "84655c87985dc88f",
   "lastOpenFiles": [
+    "note/Web Apps.md",
+    "conflict-files-obsidian-git.md",
     "MOC/Inglese.md",
     "note/Web Today.md",
-    "note/Web Apps.md",
     "assets/pdf/Gestione/Unità5.pdf",
     "MOC/Sistemi e Reti.md",
     "MOC/Storia.md",
@@ -209,7 +224,6 @@
     "note/Connecting to the Internet.md",
     "note/Online Dangers.md",
     "Senza nome.md",
-    "conflict-files-obsidian-git.md",
     "MOC/Informatica.md",
     "assets/pdf/Inglese/Web Apps.pdf",
     "Web App.md",
