@@ -49,8 +49,7 @@
               "title": "E-Commerce"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dd561513b97e31ae",
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19a6c303bb677ef8",
+  "active": "b0b21d25d2d218ae",
   "lastOpenFiles": [
     "note/E-Commerce.md",
     "note/Web Today.md",
