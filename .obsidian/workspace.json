@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Web Apps.md",
+                "file": "Percorsi Michele.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Apps"
+              "title": "Percorsi Michele"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni Salvatore.md",
+                "file": "Percorsi Michele.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezioni Salvatore"
+              "title": "Percorsi Michele"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,28 +221,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f741c8b11b2de51f",
+  "active": "224bc18aeaaaef80",
   "lastOpenFiles": [
+    "README.md",
     "Percorsi Michele.md",
+    "note/Web Apps.md",
+    "note/Lezioni Salvatore.md",
     "MOC/Italiano.md",
     "note/Giuseppe Ungaretti.md",
     "temp/Italo Svevo.md",
     "note/Quarta Lezione PON.md",
-    "Lezioni Salvatore.md",
     "Italiano.md",
     "Senza nome.canvas",
     "note/PON Informatica.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
     "note/E-Commerce.md",
     "note/Web Today.md",
-    "note/Web Apps.md",
     "MOC/Inglese.md",
     "conflict-files-obsidian-git.md",
     "assets/pdf/Gestione/Unità5.pdf",
     "MOC/Sistemi e Reti.md",
     "MOC/Storia.md",
     "assets/pdf/Inglese/Web Today.pdf",
-    "README.md",
     "note/Connecting to the Internet.md",
     "note/Online Dangers.md",
     "MOC/Informatica.md",
