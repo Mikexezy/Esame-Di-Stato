@@ -6,9 +6,11 @@
 	
 	- Collegamento con Storia
 	
-	1. Storia: La prima guerra mondiale, la solitudine e le condizioni di vita dei soldati.
+	2. Storia: La prima guerra mondiale, la solitudine e le condizioni di vita dei soldati.
 	
 	- Collegamento con l'essenza dei social nell'era moderna
+
+	3. Sistemi e Reti
 
 
 
@@ -20,7 +22,7 @@
 	
 	- Collegamento con Storia
 	
-	1. Storia: Seconda Guerra Mondiale con la dipendenza emotiva e psicologica generata dal leader attraverso la propaganda nei regimi totalitari del Novecento.
+	2. Storia: Seconda Guerra Mondiale con la dipendenza emotiva e psicologica generata dal leader attraverso la propaganda nei regimi totalitari del Novecento.
 
 
 
