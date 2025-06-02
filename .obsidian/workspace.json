@@ -13,12 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Percorsi Michele.md",
+                "file": "Percorsi Michele/Percorsi Michele.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Percorsi Michele"
+            }
+          },
+          {
+            "id": "2357a25435c6b5c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percorsi Michele/Social Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Media"
+            }
+          },
+          {
+            "id": "a4be78a5dc5dd949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percorsi Michele/Social Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Media"
+            }
+          },
+          {
+            "id": "3118843a62ef4202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percorsi Michele/Social Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Media"
+            }
+          },
+          {
+            "id": "31b1a593bfb0f48f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percorsi Michele/Social Media.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Media"
+            }
+          },
+          {
+            "id": "9a16e505491cc63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percorsi Michele/The Web Today.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Web Today"
+            }
+          },
+          {
+            "id": "f54de7316c3da9c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Percorsi Michele/Libertà Negate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Libertà Negate"
             }
           },
           {
@@ -63,7 +147,8 @@
               "title": "Percorsi Michele"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,10 +306,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224bc18aeaaaef80",
+  "active": "f54de7316c3da9c0",
   "lastOpenFiles": [
+    "Percorsi Michele/Privacy e Sicurezza.md",
+    "Percorsi Michele/Progetti Informatici.md",
+    "Percorsi Michele/The Web Today.md",
+    "Percorsi Michele/Social Media.md",
+    "Percorsi Michele/Libertà Negate.md",
     "README.md",
-    "Percorsi Michele.md",
+    "Percorsi Michele/Percorsi Michele.md",
+    "Percorsi Michele",
     "note/Web Apps.md",
     "note/Lezioni Salvatore.md",
     "MOC/Italiano.md",
@@ -249,13 +340,10 @@
     "assets/pdf/Inglese/Web Apps.pdf",
     "Web App.md",
     "MOC/TPSIT.md",
-    "MOC/Gestione.md",
     "assets/pdf/Inglese",
     "assets/pdf/Gestione/I Fattori Economici.pdf",
     "assets/pdf/Gestione/Il Processo di Produzione del Software.pdf",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
-    "note/Il Processo di Produzione del Software.md",
-    "note/I Fattori Economici.md",
     "assets/img/ProvaEsame2.png",
     "assets/img/ProvaEsame1.png",
     "assets/img/modelloERSalvatore.png",
@@ -266,8 +354,6 @@
     "Quarta Lezione PON.canvas",
     "assets/img/Quarta Lezione PON 2.png",
     "assets/img/Quarta Lezione PON.png",
-    "assets/img",
-    "assets",
-    "PON Informatica].md"
+    "assets/img"
   ]
 }
