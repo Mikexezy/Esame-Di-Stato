@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Percorsi Michele/Libertà Negate.md",
+                "file": "Percorsi Michele/The Web Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Libertà Negate"
+              "title": "The Web Today"
             }
           },
           {
@@ -308,13 +308,19 @@
   },
   "active": "f54de7316c3da9c0",
   "lastOpenFiles": [
-    "Percorsi Michele/Privacy e Sicurezza.md",
-    "Percorsi Michele/Progetti Informatici.md",
-    "Percorsi Michele/The Web Today.md",
+    "assets/pdf/Percorsi/The Web Today.pdf",
     "Percorsi Michele/Social Media.md",
-    "Percorsi Michele/Libertà Negate.md",
-    "README.md",
+    "Percorsi Michele/The Web Today.md",
+    "assets/pdf/Percorsi/Social Media.pdf",
+    "Percorsi Michele/Progetti Informatici.md",
+    "assets/pdf/Percorsi/Progetti Informatici.pdf",
+    "Percorsi Michele/Privacy e Sicurezza.md",
+    "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
     "Percorsi Michele/Percorsi Michele.md",
+    "Percorsi Michele/Libertà Negate.md",
+    "assets/pdf/Percorsi/Libertà Negate.pdf",
+    "assets/pdf/Percorsi",
+    "README.md",
     "Percorsi Michele",
     "note/Web Apps.md",
     "note/Lezioni Salvatore.md",
@@ -339,21 +345,15 @@
     "MOC/Informatica.md",
     "assets/pdf/Inglese/Web Apps.pdf",
     "Web App.md",
-    "MOC/TPSIT.md",
     "assets/pdf/Inglese",
-    "assets/pdf/Gestione/I Fattori Economici.pdf",
-    "assets/pdf/Gestione/Il Processo di Produzione del Software.pdf",
-    "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
     "assets/img/ProvaEsame2.png",
     "assets/img/ProvaEsame1.png",
     "assets/img/modelloERSalvatore.png",
     "modelloERSalvatore.png",
     "Pasted image 20250527172053.png",
     "Pasted image 20250527165310.png",
-    "Quarta Lezione PON.pdf",
     "Quarta Lezione PON.canvas",
     "assets/img/Quarta Lezione PON 2.png",
-    "assets/img/Quarta Lezione PON.png",
-    "assets/img"
+    "assets/img/Quarta Lezione PON.png"
   ]
 }

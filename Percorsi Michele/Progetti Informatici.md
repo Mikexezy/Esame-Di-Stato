@@ -23,3 +23,114 @@
 	La tecnologia può essere strumento di liberazione, ma anche di oppressione. Dipende da come la usiamo, da chi la controlla, da quanto siamo preparati a comprenderla. Come cittadini, abbiamo il dovere di conoscere questi meccanismi per difendere la nostra libertà e partecipare consapevolmente al cambiamento.
 	
 	In conclusione, i progetti informatici non sono mai solo tecnologia: sono politica, società, cultura. E come tali, devono essere gestiti con responsabilità e visione.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## SCALETTA
+
+---
+
+### **Pirandello e l’identità frammentata**
+
+- **Autore e opera**: Luigi Pirandello – _Uno, Nessuno e Centomila_
+    
+- **Protagonista**: Vitangelo Moscarda
+    
+- **Tema chiave**: identità frammentata → percezione altrui ≠ identità vera
+    
+- **Parallelo digitale**:
+    
+    - identità online = costruite da contenuti + algoritmi
+        
+    - profili social, cronologie, preferenze → riflettono ciò che il sistema elabora
+        
+    
+- **Domande centrali**:
+    
+    - Chi controlla l’identità digitale?
+        
+    - Chi decide cosa vediamo?
+        
+    
+- **Parola chiave**: _identità algoritmica_
+
+---
+### **La tecnologia come propaganda e potere**
+
+- **Contesto storico**: regimi totalitari del Novecento
+    
+- **Tecnologie usate per il controllo**:
+    
+    - radio
+        
+    - cinema
+        
+    - televisione
+        
+    
+- **Finalità**: manipolare opinione pubblica, diffondere ideologia
+    
+- **Oggi**:
+    
+    - social network = nuovi mezzi di controllo
+        
+    - **cyberwarfare**: elezioni, infrastrutture, dati = nuovi campi di battaglia
+        
+    
+- **Parola chiave**: _tecnologia = arma geopolitica_
+
+---
+
+### **Etica e responsabilità dei progetti informatici**
+
+- **Tecnologie odierne**:
+    
+    - app
+        
+    - AI
+        
+    - algoritmi di raccomandazione
+        
+    
+- **Effetti diretti**:
+    
+    - scelta dei contenuti
+        
+    - influenza sugli acquisti, opinioni, relazioni
+        
+    
+- **Punto centrale**: _gli algoritmi non sono neutri_
+    
+- **Ruolo degli sviluppatori**:
+    
+    - non solo tecnici, ma **responsabili etici**
+        
+    - domande fondamentali:
+        
+        - proteggo la privacy?
+            
+        - includo o escludo?
+            
+        - sto creando strumenti liberi o sistemi chiusi?\n\n- **Tecnologia = doppio volto**:
+            
+        
+    - può liberare
+        
+    - può opprimere
+        
+    
+- **Parola chiave finale**: _consapevolezza digitale_ → politica, etica, cultura

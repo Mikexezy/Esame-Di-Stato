@@ -23,3 +23,103 @@
 	Inoltre, l’iperconnessione ha conseguenze neurologiche: studi mostrano che l’uso prolungato dei dispositivi digitali modifica l’attenzione, la memoria, la capacità di riflessione profonda. Viviamo in una condizione di distrazione permanente. La mente non ha più tempo per elaborare in profondità.
 	
 	Per affrontare la dipendenza da internet, serve educazione digitale, consapevolezza e una nuova cultura del tempo. Come Zeno che annotava le sue fragilità per capirle, anche noi dobbiamo imparare a riconoscere i segnali del disagio e recuperare una gestione sana della nostra vita online.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## **SCALETTA**
+
+---
+
+### **Svevo e la dipendenza psicologica**
+
+- **Autore e opera**: Italo Svevo – _La Coscienza di Zeno_
+    
+- **Protagonista**: Zeno Cosini
+    
+- **Tema centrale**: dipendenza dal fumo → razionalizzazione inutile
+    
+- **Frase simbolica**: “Questa sarà l’ultima sigaretta”
+    
+- **Parallelo moderno**:
+    
+    - uso compulsivo dello smartphone
+        
+    - “ancora cinque minuti…”
+        
+    
+- **Caratteristica comune**: autoconsapevolezza ≠ capacità di cambiare
+    
+- **Parola chiave**: _comportamento compulsivo_
+
+---
+
+### **Propaganda e controllo nei regimi totalitari**
+
+- **Contesto**: regimi del Novecento (Hitler, Stalin, Mussolini)
+    
+- **Tecniche**: propaganda continua = creare bisogno emotivo del leader
+    
+- **Obiettivo**: mantenere consenso, manipolare le percezioni
+    
+- **Parallelo con oggi**:
+    
+    - social & pubblicità digitale → stimoli costanti
+        
+    - controllo distribuito: app, piattaforme, tracciamenti
+        
+    
+- **Parola chiave**: _manipolazione dell’attenzione_
+
+---
+
+### **Dipendenza digitale oggi**
+
+- **Meccanismi della dipendenza**:
+    
+    - notifiche
+        
+    - like
+        
+    - scroll infinito
+        
+    
+- **Effetti**:
+    
+    - alienazione
+        
+    - calo dell’attenzione
+        
+    - problemi di memoria e concentrazione
+        
+    
+- **Conseguenze sociali**:
+    
+    - isolamento
+        
+    - perdita di relazioni autentiche
+        
+    - tempo sottratto a studio e sonno
+        
+    
+- **Conseguenze neurologiche**: cervello abituato a stimoli brevi
+    
+- **Soluzioni possibili**:
+    
+    - educazione digitale
+        
+    - consapevolezza del tempo
+        
+    - gestione sana delle abitudini
+        
+    
+- **Parola chiave finale**: _riappropriarsi del tempo_
