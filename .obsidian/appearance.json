@@ -1,8 +1,10 @@
 {
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "textFontFamily": "Arial Unicode MS",
-  "baseFontSize": 15,
+  "textFontFamily": "Helvetica Now Display",
+  "baseFontSize": 12,
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": true,
+  "accentColor": "#0091ff",
+  "interfaceFontFamily": "Helvetica Now Display"
 }
