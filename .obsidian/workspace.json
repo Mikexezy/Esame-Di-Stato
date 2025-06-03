@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab16140c71804fa",
+        "id": "196654265099f5e8",
         "type": "tabs",
         "children": [
           {
-            "id": "63821ea6d6370403",
+            "id": "c294b729d9f5ad57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cryptography"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -179,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "c294b729d9f5ad57",
   "lastOpenFiles": [
-    "Cryptography.md",
     "conflict-files-obsidian-git.md",
+    "Cryptography.md",
     "note/Lezioni Salvatore.md",
     "assets/pdf/Percorsi/Social Media.pdf",
     "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
