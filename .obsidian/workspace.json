@@ -63,7 +63,8 @@
               "title": "Web Apps"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dd561513b97e31ae",
@@ -221,12 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c294b729d9f5ad57",
+  "active": "c739ef9591fccfb2",
   "lastOpenFiles": [
+    "Cryptography.md",
     "note/E-Commerce.md",
     "note/Web Today.md",
     "note/Web Apps.md",
-    "Cryptography.md",
     "conflict-files-obsidian-git.md",
     "note/Lezioni Salvatore.md",
     "assets/pdf/Percorsi/Social Media.pdf",
