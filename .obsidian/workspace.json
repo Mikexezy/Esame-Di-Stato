@@ -62,6 +62,16 @@
               "icon": "lucide-file",
               "title": "Web Apps"
             }
+          },
+          {
+            "id": "ef1d69ab6dc37ae3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
           }
         ],
         "currentTab": 3
@@ -121,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd561513b97e31ae",
@@ -223,8 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "c739ef9591fccfb2",
   "lastOpenFiles": [
+    "Percorsi Michele/Percorsi Michele.md",
+    "Percorsi Michele/Progetti Informatici.md",
     "note/Web Apps.md",
     "conflict-files-obsidian-git.md",
     "Cryptography.md",
@@ -237,11 +248,9 @@
     "assets/pdf/Percorsi/The Web Today.pdf",
     "assets/pdf/Percorsi/Libertà Negate.pdf",
     "assets/pdf/Percorsi",
-    "Percorsi Michele/Percorsi Michele.md",
     "Percorsi Michele/The Web Today.md",
     "Percorsi Michele/Social Media.md",
     "Percorsi Michele/Privacy e Sicurezza.md",
-    "Percorsi Michele/Progetti Informatici.md",
     "Percorsi Michele/Libertà Negate.md",
     "Percorsi Michele",
     "MOC/Sistemi e Reti.md",
