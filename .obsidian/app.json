@@ -1,17 +1,1 @@
-{
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-<<<<<<< HEAD
-    "downscalePercent": 75
-=======
-    "downscalePercent": 100
->>>>>>> origin/main
-  },
-  "showLineNumber": true,
-  "readableLineLength": true
-}
+{}
