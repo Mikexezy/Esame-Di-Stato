@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35afcbb818ff8060",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "I Sistemi Distribuiti"
-            }
-          },
-          {
             "id": "b014d7557c6f8b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography.md",
+                "file": "MOC/Storia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography"
+              "title": "Storia"
             }
           }
         ]
@@ -191,16 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "b014d7557c6f8b0a",
   "lastOpenFiles": [
-    "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
+    "Pasted image 20250605144025.png",
+    "MOC/Storia.md",
     "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
+    "Cryptography.md",
+    "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
     "assets/pdf/Percorsi/Progetti Informatici.pdf",
     "I Sistemi Distribuiti.md",
-    "Pasted image 20250605144025.png",
     "MOC/TPSIT.md",
     "note/E-Commerce.md",
-    "Cryptography.md",
     "MOC/Inglese.md",
     "Percorsi Michele/Libertà Negate.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
@@ -230,8 +219,6 @@
     "Senza nome.canvas",
     "note/PON Informatica.md",
     "note/Web Today.md",
-    "assets/pdf/Gestione/Unità5.pdf",
-    "MOC/Sistemi e Reti.md",
     "assets/img/ProvaEsame2.png",
     "assets/img/ProvaEsame1.png",
     "assets/img/modelloERSalvatore.png",
