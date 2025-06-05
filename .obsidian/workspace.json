@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5733781a2051fc10",
+        "id": "5a0ab95f990d23e0",
         "type": "tabs",
         "children": [
           {
-            "id": "faf5fde4b399559f",
+            "id": "94bbf92a3e4c560d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "pdf",
+              "state": {
+                "file": "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Easy"
             }
           }
         ]
@@ -175,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf5fde4b399559f",
+  "active": "70ceb3436fc73075",
   "lastOpenFiles": [
+    "MOC/Storia.md",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
     "note/Percorsi Michele.md",
@@ -184,7 +187,6 @@
     "README.md",
     "note/Cryptography.md",
     "How to use Web safely.md",
-    "MOC/Storia.md",
     "Pasted image 20250605144025.png",
     "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
@@ -207,7 +209,6 @@
     "assets/pdf/Percorsi/The Web Today.pdf",
     "assets/pdf/Percorsi/Social Media.pdf",
     "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
-    "assets/pdf/Percorsi",
     "note/Web Apps.md",
     "note/Lezioni Salvatore.md",
     "note/Giuseppe Ungaretti.md",
