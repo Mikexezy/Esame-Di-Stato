@@ -11,14 +11,12 @@
             "id": "35afcbb818ff8060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "note/E-Commerce.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf"
               },
-              "icon": "lucide-file",
-              "title": "E-Commerce"
+              "icon": "lucide-file-text",
+              "title": "I Sistemi Distribuiti"
             }
           },
           {
@@ -193,10 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35afcbb818ff8060",
+  "active": "b9f3e58677fa017b",
   "lastOpenFiles": [
-    "Cryptography.md",
+    "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
+    "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
+    "assets/pdf/Percorsi/Progetti Informatici.pdf",
+    "I Sistemi Distribuiti.md",
+    "Pasted image 20250605144025.png",
+    "MOC/TPSIT.md",
     "note/E-Commerce.md",
+    "Cryptography.md",
     "MOC/Inglese.md",
     "Percorsi Michele/Libertà Negate.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
@@ -215,7 +219,6 @@
     "assets/pdf/Percorsi/Libertà Negate.pdf",
     "assets/pdf/Percorsi/The Web Today.pdf",
     "assets/pdf/Percorsi/Social Media.pdf",
-    "assets/pdf/Percorsi/Progetti Informatici.pdf",
     "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
     "assets/pdf/Percorsi",
     "Percorsi Michele",
@@ -229,9 +232,6 @@
     "note/Web Today.md",
     "assets/pdf/Gestione/Unità5.pdf",
     "MOC/Sistemi e Reti.md",
-    "MOC/Storia.md",
-    "assets/pdf/Inglese/Web Today.pdf",
-    "note/Connecting to the Internet.md",
     "assets/img/ProvaEsame2.png",
     "assets/img/ProvaEsame1.png",
     "assets/img/modelloERSalvatore.png",
