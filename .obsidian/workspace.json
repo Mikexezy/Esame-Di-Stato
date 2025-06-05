@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb70b233be6e2d1",
+        "id": "5733781a2051fc10",
         "type": "tabs",
         "children": [
           {
-            "id": "b014d7557c6f8b0a",
+            "id": "faf5fde4b399559f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC/Storia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Storia"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -179,28 +175,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b014d7557c6f8b0a",
+  "active": "faf5fde4b399559f",
   "lastOpenFiles": [
-    "Pasted image 20250605144025.png",
+    "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
+    "assets/pdf/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
+    "note/Percorsi Michele.md",
+    "note/I Sistemi Distribuiti.md",
+    "README.md",
+    "note/Cryptography.md",
+    "How to use Web safely.md",
     "MOC/Storia.md",
+    "Pasted image 20250605144025.png",
     "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
-    "Cryptography.md",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
     "assets/pdf/Percorsi/Progetti Informatici.pdf",
-    "I Sistemi Distribuiti.md",
     "MOC/TPSIT.md",
     "note/E-Commerce.md",
     "MOC/Inglese.md",
     "Percorsi Michele/Libertà Negate.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
-    "How to use Web safely.md",
-    "Percorsi Michele.md",
     "Percorsi Michele/The Web Today.md",
     "Percorsi Michele/Social Media.md",
     "Percorsi Michele/Progetti Informatici.md",
     "Percorsi Michele/Privacy e Sicurezza.md",
     "Percorsi Michele/Percorsi Michele.md",
-    "README.md",
     "assets/pdf/Sistemi/Reti Wireless.pdf",
     "temp/Italo Svevo.md",
     "conflict-files-obsidian-git.md",
@@ -210,7 +208,6 @@
     "assets/pdf/Percorsi/Social Media.pdf",
     "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
     "assets/pdf/Percorsi",
-    "Percorsi Michele",
     "note/Web Apps.md",
     "note/Lezioni Salvatore.md",
     "note/Giuseppe Ungaretti.md",
