@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a0ab95f990d23e0",
+        "id": "c5a59a0c6eba0be2",
         "type": "tabs",
         "children": [
           {
-            "id": "94bbf92a3e4c560d",
+            "id": "7ff09cc9159fb13c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf"
+                "file": "note/E-Commerce.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Easy"
+              "icon": "lucide-file",
+              "title": "E-Commerce"
             }
           }
         ]
@@ -177,23 +179,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ceb3436fc73075",
+  "active": "7ff09cc9159fb13c",
   "lastOpenFiles": [
-    "MOC/Storia.md",
+    "MOC/Inglese.md",
+    "note/Cryptography.md",
+    "How to use Web safely.md",
+    "note/E-Commerce.md",
+    "MOC/TPSIT.md",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
+    "MOC/Storia.md",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
     "note/Percorsi Michele.md",
     "note/I Sistemi Distribuiti.md",
     "README.md",
-    "note/Cryptography.md",
-    "How to use Web safely.md",
     "Pasted image 20250605144025.png",
     "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
     "assets/pdf/Percorsi/Progetti Informatici.pdf",
-    "MOC/TPSIT.md",
-    "note/E-Commerce.md",
-    "MOC/Inglese.md",
     "Percorsi Michele/Libertà Negate.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
     "Percorsi Michele/The Web Today.md",
