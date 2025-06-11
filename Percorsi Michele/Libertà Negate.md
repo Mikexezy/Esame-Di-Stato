@@ -15,125 +15,24 @@
 
 
 
+- Inglese:
+	Online Dangers
+
+
+
+- Sistemi e Reti:
+	Dall'avvento della tecnologia, attraverso i firewall ad esempio, viene da sempre negata la libertà di certi popoli.
+
+
+
+- Informatica
+	 GRANT e REVOKE per la gestione dei database.
+
+
+
 - ### **Collegamento attuale:**  
 	Anche oggi esiste un condizionamento sociale, più sottile ma presente. I modelli imposti dai media, dai social, dalla pubblicità, definiscono come dobbiamo apparire, pensare, comportarci. La libertà non è solo assenza di costrizione, ma anche capacità di pensare autonomamente.
 	
 	Viviamo immersi in un mondo dove le opinioni si formano attraverso algoritmi, dove l’omologazione è incentivata e il pensiero critico scoraggiato. La paura del giudizio, la pressione sociale, la cultura dell’immagine e della performance possono portare a una perdita di autenticità.
 	
 	Riprendendo Pirandello: oggi più che mai siamo "centomila" identità, costretti a piacere a tutti ma incapaci di essere noi stessi. La vera sfida moderna è riconquistare la libertà interiore, imparare a distinguere ciò che vogliamo da ciò che ci viene imposto, e recuperare un senso autentico del sé.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## SCALETTA
-### Pirandello e l’identità frammentata 
-
-- **Titolo e autore**: _Uno, Nessuno e Centomila_ – Luigi Pirandello
-    
-- **Protagonista**: Vitangelo Moscarda
-    
-- **Scoperta iniziale**: l’immagine che gli altri hanno di lui ≠ identità personale
-    
-- **Tema centrale**: identità moltiplicata → impossibilità di essere sé stessi
-    
-- **Condizionamento**:
-    
-    - famiglia
-        
-    - società
-        
-    - lavoro
-        
-    
-- **Conseguenze**: alienazione, frustrazione, ribellione interiore
-    
-- **Finale**: rifiuto delle maschere → esclusione sociale → libertà tragica
-    
-- **Concetto chiave**: _maschere sociali_ vs autenticità
-    
-
----
-
-###  Il condizionamento nei regimi totalitari
-
-- **Contesto storico**: Novecento, totalitarismi
-    
-- **Paesi**: Germania (nazismo), Italia (fascismo), URSS (comunismo stalinista)
-    
-- **Strumenti di controllo**:
-    
-    - **propaganda**
-        
-    - **censura**
-        
-    - **culto del capo**
-        
-    - **sorveglianza capillare**
-        
-    
-- **Negazione della libertà**:
-    
-    - pensiero critico proibito
-        
-    - dissenso represso (arresti, leggi razziali, esilio, censura stampa)
-        
-    
-- **Finalità**: uniformare le coscienze → creare obbedienza collettiva
-    
-- **Parola chiave**: _controllo sociale sistematico_
-    
-
----
-
-###  Il condizionamento oggi
-
-- **Condizionamento moderno**:
-    
-    - media
-        
-    - social network
-        
-    - pubblicità
-        
-    - algoritmi
-        
-    
-- **Effetti**:
-    
-    - imposizione di modelli estetici e comportamentali
-        
-    - riduzione del pensiero critico
-        
-    - conformismo indotto
-        
-    
-- **Paure moderne**:
-    
-    - giudizio altrui
-        
-    - fallimento sociale
-        
-    - esclusione digitale
-        
-    
-- **Citazione Pirandello attuale**: siamo “centomila” identità digitali
-    
-- **Sfida**: riconquistare libertà interiore, distinguere ciò che è autentico da ciò che è indotto
-    
-- **Parola chiave finale**: _autenticità_

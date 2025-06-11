@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "a920c02047416fc3",
+            "id": "71c918d73ae10a6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Risorgimento.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/pdf/Storia/Destra e Sinistra storica.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Risorgimento"
+              "icon": "lucide-file-text",
+              "title": "Destra e Sinistra storica"
             }
           }
         ],
@@ -194,23 +192,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a920c02047416fc3",
+  "active": "70ceb3436fc73075",
   "lastOpenFiles": [
+    "Destra e Sinistra storica.md",
+    "MOC/Inglese.md",
+    "Percorsi Michele/Libertà Negate.md",
+    "Senza nome",
+    "Percorsi Michele/Progetti Informatici.md",
+    "Percorsi Michele/Social Media.md",
+    "Percorsi Michele/The Web Today.md",
+    "MOC/Sistemi e Reti.md",
+    "Percorsi Michele/Privacy e Sicurezza.md",
+    "assets/pdf/Storia/Destra e Sinistra storica.pdf",
     "MOC/Storia.md",
-    "Risorgimento.md",
+    "MOC/TPSIT.md",
+    "note/Realismo.md",
+    "Risposte.md",
+    "MOC/Italiano.md",
     "note/Giovanni Verga.md",
+    "note/L'Unità d'Italia.md",
     "assets/pdf/Italiano/Giovanni Verga.pdf",
     "note/How to use Web safely.md",
-    "note/Realismo.md",
     "assets/pdf/Italiano/Realismo.pdf",
     "assets/pdf/Italiano",
     "Naturalismo.md",
     "Verismo.md",
-    "MOC/Italiano.md",
     "note/Cryptography.md",
     "note/E-Commerce.md",
-    "MOC/Inglese.md",
-    "MOC/TPSIT.md",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
     "assets/pdf/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
     "note/Percorsi Michele.md",
@@ -220,20 +228,9 @@
     "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
     "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
     "assets/pdf/Percorsi/Progetti Informatici.pdf",
-    "Percorsi Michele/Libertà Negate.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
-    "Percorsi Michele/The Web Today.md",
-    "Percorsi Michele/Social Media.md",
-    "Percorsi Michele/Progetti Informatici.md",
-    "Percorsi Michele/Privacy e Sicurezza.md",
     "Percorsi Michele/Percorsi Michele.md",
-    "assets/pdf/Sistemi/Reti Wireless.pdf",
     "temp/Italo Svevo.md",
-    "conflict-files-obsidian-git.md",
-    "assets/pdf/Percorsi/Libertà Negate.pdf",
-    "note/Web Apps.md",
-    "note/Lezioni Salvatore.md",
-    "note/Giuseppe Ungaretti.md",
     "Senza nome.canvas",
     "assets/img/ProvaEsame2.png",
     "assets/img/ProvaEsame1.png",
