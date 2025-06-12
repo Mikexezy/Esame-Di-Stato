@@ -5,18 +5,45 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
+<<<<<<< HEAD
   "collapse-color-groups": true,
   "colorGroups": [],
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#moc  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#dafinire  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+>>>>>>> origin/main
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
+<<<<<<< HEAD
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.0000000000000007,
+=======
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.4043414550948847,
+>>>>>>> origin/main
   "close": true
 }

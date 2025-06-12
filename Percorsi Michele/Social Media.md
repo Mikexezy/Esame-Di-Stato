@@ -17,95 +17,24 @@
 
 
 
+- Inglese:
+	Web Today
+
+
+
+- Sistemi e Reti:
+	Protocolli usati nei social.
+
+
+
+- Informatica
+	 PHP, NoSQL e database relazionali
+
+
+
 - ### **Collegamento attuale:**  
 	I social media, nati per connettere, spesso accentuano la solitudine. L'interazione è filtrata, mediata, e manca di contatto umano reale. Le vite perfette mostrate online aumentano il senso di inadeguatezza e isolamento. Si vive circondati da "presenze digitali" ma si resta soli nella realtà.
 	
 	La solitudine oggi assume forme nuove: è una solitudine che si vive in mezzo alla folla, in mezzo alle notifiche, alle chat di gruppo. Si comunica senza parlarsi veramente. Ci si confronta continuamente con gli altri, ma non ci si sente compresi. Questa condizione può generare ansia sociale, depressione, senso di fallimento, specialmente tra i giovani. La comunicazione online diventa un’illusione di vicinanza che spesso amplifica l’isolamento reale.
 	
 	Secondo numerosi studi, l’uso eccessivo dei social è legato a una minore autostima e a un maggiore senso di solitudine. In particolare, l’adolescente che passa molte ore sui social spesso sviluppa un senso di inadeguatezza. L’ansia da prestazione sociale, il bisogno di approvazione continua (like, commenti), e il confronto con modelli di perfezione irraggiungibili diventano una trappola psicologica. La solitudine digitale è silenziosa, ma diffusa. Si vive connessi, ma isolati.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## **SCALETTA**
-
----
-
-### **Giuseppe Ungaretti e la solitudine di guerra**
-
-- **Autore e opera**: Giuseppe Ungaretti – _L’Allegria_, poesia “Veglia”
-    
-- **Contesto**: Prima Guerra Mondiale, vita in trincea
-    
-- **Esperienza poetica**: solitudine **esistenziale**, **fisica**, **spirituale**
-    
-- **Linguaggio**: essenziale, frammentato → **silenzio** come simbolo di isolamento
-    
-- **Frase chiave**: “Un’intera nottata buttato vicino a un compagno massacrato…”
-    
-- **Effetto poetico**: sospensione, morte, riflessione sull’umanità
-    
-- **Parola chiave**: _disconnessione_
-
----
-
-### **Solitudine nella Prima Guerra Mondiale**
-
-- **Condizioni**:
-    
-    - trincee → isolamento, disumanità
-        
-    - distanza dalle famiglie
-        
-    - trauma psicologico → _shell shock_
-        
-    
-- **Testimonianze**: lettere, diari, racconti → senso di **angoscia e abbandono**
-    
-- **Comunicazione limitata** → solitudine accentuata
-    
-- **Vita in trincea**: paura costante, morte, isolamento emotivo
-    
-- **Parola chiave**: _alienazione_
-
----
-
-### **ATTUALITÀ – Solitudine nell’era dei social**
-
-- **Paradosso moderno**: sempre connessi, ma **mai stati così soli**
-    
-- **Illusione di vicinanza**:
-    
-    - interazione mediata
-        
-    - contatto umano assente
-        
-    
-- **Effetti psicologici**:
-    
-    - ansia sociale
-        
-    - senso di inadeguatezza
-        
-    - depressione giovanile
-        
-    
-- **Motivi**:
-    
-    - confronto continuo
-        
-    - ricerca di approvazione (like/commenti)
-        
-    - modelli irraggiungibili
-        
-    
-- **Parola chiave finale**: _solitudine digitale_

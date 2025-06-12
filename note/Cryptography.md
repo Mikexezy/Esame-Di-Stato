@@ -2,7 +2,6 @@
 connections:
   - "[[Inglese]]"
 ---
-
 Cryptography is the study and practice of hiding information so that only those having a special knowledge can read and process it.
 
 It means scrambling a plaintext into ciphertext through a process called encryption and then back again through decryption.
