@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "ef1d69ab6dc37ae3",
+            "id": "46d84c4bc425bff2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,8 +73,7 @@
               "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,18 +231,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "c294b729d9f5ad57",
   "lastOpenFiles": [
+    "note/E-Commerce.md",
+    "note/Web Today.md",
     "note/Web Apps.md",
+    "temp/Italo Svevo.md",
+    "MOC/Italiano.md",
+    "Cryptography.md",
     "conflict-files-obsidian-git.md",
     "assets/pdf/Sistemi/Reti Wireless.pdf",
     "Percorsi Michele.md",
     "How to use Web safely.md",
     "Percorsi Michele/Percorsi Michele.md",
     "Percorsi Michele/Progetti Informatici.md",
-    "Cryptography.md",
-    "note/E-Commerce.md",
-    "note/Web Today.md",
     "note/Lezioni Salvatore.md",
     "assets/pdf/Percorsi/Social Media.pdf",
     "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
@@ -268,7 +269,6 @@
     "note/Online Dangers.md",
     "note/Connecting to the Internet.md",
     "Web Apps.md",
-    "note/Quarta Lezione PON.md",
     "assets/canvas/Italiano/Ungaretti.canvas",
     "assets/img/ProvaEsame2.png",
     "assets/img/Quarta Lezione PON.png",
