@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "defe11f0bc2d16b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "591d4e08c282c6cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd65f836a38ad97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8c98cf83afb6ce7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "42aeb3542ebe45b6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "22aa6fe77214b5ce",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cb24dfc9fea8617c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c22c2d13b9d68ff9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "af46c405e6dbb7b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bf5ecb172f23564a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "72b4735c12825011",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "853efc72456e3c13",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "5849a5c59b634812",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ecd65f836a38ad97",
+  "lastOpenFiles": [
+    "Prima Guerra Mondiale.md",
+    "Inglese.pdf",
+    "Risposte.md",
+    "Senza nome.md",
+    "Storia_Social.pdf",
+    "Storia_Libertà.pdf",
+    "Storia_Privacy.pdf",
+    "Montale Completo.pdf",
+    "Quasimodo Completo.pdf",
+    "temp/Italo Svevo.md",
+    "temp",
+    "Storia_Progetti.pdf",
+    "README.md",
+    "MOC/Gestione.md",
+    "MOC/Informatica.md",
+    "MOC/Sistemi e Reti.md",
+    "MOC/Italiano.md",
+    "MOC/Inglese.md",
+    "MOC/Storia.md",
+    "MOC/TPSIT.md",
+    "MOC",
+    "Italiano_Progetti.pdf",
+    "Percorsi Michele/The Web Today.md",
+    "Percorsi Michele/Social Media.md",
+    "Percorsi Michele/Progetti Informatici.md",
+    "Percorsi Michele/Libertà Negate.md",
+    "Percorsi Michele/Privacy e Sicurezza.md",
+    "note/Cryptography.md",
+    "note/Web Apps.md",
+    "note/E-Commerce.md",
+    "note/Il Transport Layer del TCP IP.md",
+    "note/Quarta Lezione PON.md",
+    "note/Crittografia.md",
+    "note/How to use Web safely.md",
+    "note/Realismo.md",
+    "assets/canvas/Italiano/Ungaretti.canvas",
+    "assets/img/modelloERSalvatore.png",
+    "assets/img/ProvaEsame1.png",
+    "assets/img/ProvaEsame2.png",
+    "assets/img/Quarta Lezione PON 2.png",
+    "assets/img/Quarta Lezione PON.png"
+  ]
+}

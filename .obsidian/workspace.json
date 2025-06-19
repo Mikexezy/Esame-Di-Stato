@@ -139,58 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Il treno ha fischiato.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Il treno ha fischiato"
-            }
-          },
-          {
-            "id": "24d85cc212d34aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Uno, Nessuno e Centomila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uno, Nessuno e Centomila"
-            }
-          },
-          {
-            "id": "74fc284cbad23ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Il treno ha fischiato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Il treno ha fischiato"
-            }
-          },
-          {
-            "id": "eb3f0f8c4591982a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Senza nome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Senza nome"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,15 +306,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ceb3436fc73075",
+  "active": "0d876ff4e0396712",
   "lastOpenFiles": [
-    "Regimi Totalitari del '900.md",
+    "Senza nome.md",
     "conflict-files-obsidian-git.md",
+    "Prima Guerra Mondiale.md",
+    "Regimi Totalitari del '900.md",
     "Storia_Social.pdf",
     "Storia_Progetti.pdf",
     "Storia_Privacy.pdf",
     "Storia_Libertà.pdf",
-    "Senza nome.md",
     "Quasimodo Completo.pdf",
     "Montale Completo.pdf",
     "Italiano_Progetti.pdf",
@@ -385,7 +344,6 @@
     "Percorsi Michele/The Web Today.md",
     "note/Web Today.md",
     "MOC/Inglese.md",
-    "note/Web Apps.md",
     "Pasted image 20250605144025.png",
     "assets/canvas/Italiano/Ungaretti.canvas",
     "Senza nome.canvas",
