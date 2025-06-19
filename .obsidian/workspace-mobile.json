@@ -11,10 +11,14 @@
             "id": "ecd65f836a38ad97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prima Guerra Mondiale.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prima Guerra Mondiale"
             }
           }
         ]
@@ -157,8 +161,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecd65f836a38ad97",
+  "active": "5849a5c59b634812",
   "lastOpenFiles": [
+    "/Prima Guerra Mondiale.md",
     "Prima Guerra Mondiale.md",
     "Inglese.pdf",
     "Risposte.md",
