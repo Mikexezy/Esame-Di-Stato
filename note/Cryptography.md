@@ -4,7 +4,7 @@ connections:
 ---
 Cryptography is the study and practice of hiding information so that only those having a special knowledge can read and process it.
 
-It means scrambling a plaintext into cipher text through a process called encryption and then back again through decryption.
+It means scrambling a plaintext into ciphertext through a process called encryption and then back again through decryption.
 
 Encryption is the process of transforming information using an algorithm or cipher to make it unreadable to anyone except those possessing a special knowledge (called _key_). The result is encrypted data.
 

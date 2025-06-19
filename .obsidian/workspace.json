@@ -4,193 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a59a0c6eba0be2",
+        "id": "196654265099f5e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd7427b88be60c0",
+            "id": "46d84c4bc425bff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/Seconda Guerra Mondiale.md",
+                "file": "note/I Principi S.O.L.I.D..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seconda Guerra Mondiale"
-            }
-          },
-          {
-            "id": "bf2329063e334dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Luigi Pirandello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Luigi Pirandello"
-            }
-          },
-          {
-            "id": "c9a612c6e5158f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/La patente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La patente"
-            }
-          },
-          {
-            "id": "4d19565f9c654b59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/La patente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La patente"
-            }
-          },
-          {
-            "id": "f4587c42cedbb60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Il fu Mattia Pascal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Il fu Mattia Pascal"
-            }
-          },
-          {
-            "id": "033b27a2b859baef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/La patente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La patente"
-            }
-          },
-          {
-            "id": "068d32e1b561cbcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Il berretto a sonagli.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Il berretto a sonagli"
-            }
-          },
-          {
-            "id": "7698e9a3ba88573a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Così è (se vi pare).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Così è (se vi pare)"
-            }
-          },
-          {
-            "id": "fd4e2a22b8f391a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Enrico IV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enrico IV"
-            }
-          },
-          {
-            "id": "0d876ff4e0396712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Il treno ha fischiato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Il treno ha fischiato"
-            }
-          },
-          {
-            "id": "24d85cc212d34aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Uno, Nessuno e Centomila.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uno, Nessuno e Centomila"
-            }
-          },
-          {
-            "id": "74fc284cbad23ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Il treno ha fischiato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Il treno ha fischiato"
-            }
-          },
-          {
-            "id": "eb3f0f8c4591982a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regimi Totalitari del '900.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regimi Totalitari del '900"
+              "title": "I Principi S.O.L.I.D."
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dd561513b97e31ae",
@@ -335,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,55 +180,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "46d84c4bc425bff2",
   "lastOpenFiles": [
-    "Regimi Totalitari del '900.md",
-    "conflict-files-obsidian-git.md",
-    "Storia_Social.pdf",
-    "Storia_Progetti.pdf",
-    "Storia_Privacy.pdf",
-    "Storia_Libertà.pdf",
+    "note/I Sistemi Distribuiti.md",
+    "note/La specifica dei Requisiti.md",
     "Senza nome.md",
-    "Quasimodo Completo.pdf",
-    "Montale Completo.pdf",
-    "Italiano_Progetti.pdf",
-    "Italiano_Privacy.pdf",
-    "Inglese.pdf",
-    "assets/pdf/Storia/Regimi Totalitari del '900.pdf",
-    "note/Uno, Nessuno e Centomila.md",
-    "note/Il berretto a sonagli.md",
-    "note/Il treno ha fischiato.md",
-    "note/La patente.md",
-    "note/Ciaula scopre la luna.md",
-    "note/Enrico IV.md",
-    "note/Così è (se vi pare).md",
-    "note/Il fu Mattia Pascal.md",
-    "note/Luigi Pirandello.md",
-    "MOC/Italiano.md",
-    "temp/Seconda Guerra Mondiale.md",
-    "temp/Italo Svevo.md",
-    "temp/Risposte.md",
-    "README.md",
-    "note/Prima Guerra Mondiale.md",
-    "Percorsi Michele/Libertà Negate.md",
-    "Percorsi Michele/Privacy e Sicurezza.md",
-    "Percorsi Michele/Progetti Informatici.md",
-    "Percorsi Michele/Social Media.md",
-    "Percorsi Michele/The Web Today.md",
+    "note/La Documentazione dei Requisiti.md",
+    "note/Raccolta e Analisi dei Requisiti.md",
+    "note/Attori, Casi d'Uso e Scenari.md",
+    "note/Ingegneria del Software.md",
+    "note/I Principi S.O.L.I.D..md",
+    "conflict-files-obsidian-git.md",
+    "Cryptography.md",
+    "note/Realismo.md",
+    "note/Percorsi Michele.md",
+    "note/L'Unità d'Italia.md",
+    "note/How to use Web safely.md",
+    "note/Giovanni Verga.md",
+    "note/Destra e Sinistra storica.md",
+    "note/Cryptography.md",
+    "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
+    "assets/pdf/Storia/Destra e Sinistra storica.pdf",
+    "assets/pdf/Italiano/Realismo.pdf",
+    "assets/pdf/Italiano/Giovanni Verga.pdf",
+    "assets/pdf/Italiano",
+    "Risposte.md",
+    "note/E-Commerce.md",
     "note/Web Today.md",
-    "MOC/Inglese.md",
     "note/Web Apps.md",
-    "Pasted image 20250605144025.png",
+    "temp/Italo Svevo.md",
+    "MOC/Italiano.md",
+    "assets/pdf/Sistemi/Reti Wireless.pdf",
+    "Percorsi Michele.md",
+    "How to use Web safely.md",
+    "Percorsi Michele/Percorsi Michele.md",
+    "assets/pdf/Percorsi/Social Media.pdf",
+    "assets/pdf/Percorsi/Privacy e Sicurezza.pdf",
+    "assets/pdf/Percorsi/Progetti Informatici.pdf",
+    "assets/pdf/Percorsi/The Web Today.pdf",
     "assets/canvas/Italiano/Ungaretti.canvas",
-    "Senza nome.canvas",
     "assets/img/ProvaEsame2.png",
+    "assets/img/Quarta Lezione PON.png",
     "assets/img/ProvaEsame1.png",
-    "assets/img/modelloERSalvatore.png",
-    "modelloERSalvatore.png",
-    "Pasted image 20250527172053.png",
-    "Pasted image 20250527165310.png",
-    "Quarta Lezione PON.canvas",
     "assets/img/Quarta Lezione PON 2.png",
-    "assets/img/Quarta Lezione PON.png"
+    "assets/img/modelloERSalvatore.png",
+    "Mappe Concettuali/Italiano/Ungaretti.canvas"
   ]
 }
