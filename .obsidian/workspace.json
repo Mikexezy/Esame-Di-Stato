@@ -123,10 +123,14 @@
             "id": "fd4e2a22b8f391a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prima Guerra Mondiale.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Prima Guerra Mondiale"
             }
           }
         ],
@@ -288,18 +292,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3e58677fa017b",
+  "active": "fd4e2a22b8f391a3",
   "lastOpenFiles": [
-    "Senza nome.md",
-    "conflict-files-obsidian-git.md",
+    "Montale Completo.pdf",
     "Prima Guerra Mondiale.md",
+    "conflict-files-obsidian-git.md",
+    "Senza nome.md",
     "Regimi Totalitari del '900.md",
     "Storia_Social.pdf",
     "Storia_Progetti.pdf",
     "Storia_Privacy.pdf",
     "Storia_Libertà.pdf",
     "Quasimodo Completo.pdf",
-    "Montale Completo.pdf",
     "Italiano_Progetti.pdf",
     "Italiano_Privacy.pdf",
     "Inglese.pdf",
@@ -325,7 +329,6 @@
     "Percorsi Michele/Social Media.md",
     "Percorsi Michele/The Web Today.md",
     "note/Web Today.md",
-    "MOC/Inglese.md",
     "Pasted image 20250605144025.png",
     "assets/canvas/Italiano/Ungaretti.canvas",
     "Senza nome.canvas",
