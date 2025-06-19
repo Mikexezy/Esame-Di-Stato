@@ -123,32 +123,14 @@
             "id": "fd4e2a22b8f391a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Enrico IV.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Enrico IV"
-            }
-          },
-          {
-            "id": "0d876ff4e0396712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Nuova scheda"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -306,7 +288,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d876ff4e0396712",
+  "active": "b9f3e58677fa017b",
   "lastOpenFiles": [
     "Senza nome.md",
     "conflict-files-obsidian-git.md",
