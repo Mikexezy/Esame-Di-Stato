@@ -8,33 +8,189 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ff09cc9159fb13c",
+            "id": "ddd7427b88be60c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Realismo.md",
+                "file": "temp/Seconda Guerra Mondiale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Realismo"
+              "title": "Seconda Guerra Mondiale"
             }
           },
           {
-            "id": "71c918d73ae10a6c",
+            "id": "bf2329063e334dee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/pdf/Storia/Destra e Sinistra storica.pdf"
+                "file": "note/Luigi Pirandello.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Destra e Sinistra storica"
+              "icon": "lucide-file",
+              "title": "Luigi Pirandello"
+            }
+          },
+          {
+            "id": "c9a612c6e5158f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/La patente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La patente"
+            }
+          },
+          {
+            "id": "4d19565f9c654b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/La patente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La patente"
+            }
+          },
+          {
+            "id": "f4587c42cedbb60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Il fu Mattia Pascal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Il fu Mattia Pascal"
+            }
+          },
+          {
+            "id": "033b27a2b859baef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/La patente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La patente"
+            }
+          },
+          {
+            "id": "068d32e1b561cbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Il berretto a sonagli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Il berretto a sonagli"
+            }
+          },
+          {
+            "id": "7698e9a3ba88573a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Così è (se vi pare).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Così è (se vi pare)"
+            }
+          },
+          {
+            "id": "fd4e2a22b8f391a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Enrico IV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enrico IV"
+            }
+          },
+          {
+            "id": "0d876ff4e0396712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Il treno ha fischiato.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Il treno ha fischiato"
+            }
+          },
+          {
+            "id": "24d85cc212d34aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Uno, Nessuno e Centomila.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uno, Nessuno e Centomila"
+            }
+          },
+          {
+            "id": "74fc284cbad23ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Il treno ha fischiato.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Il treno ha fischiato"
+            }
+          },
+          {
+            "id": "eb3f0f8c4591982a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regimi Totalitari del '900.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regimi Totalitari del '900"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -192,45 +348,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70ceb3436fc73075",
+  "active": "eb3f0f8c4591982a",
   "lastOpenFiles": [
-    "note/Destra e Sinistra storica.md",
-    "MOC/Inglese.md",
+    "assets/pdf/Storia/Regimi Totalitari del '900.pdf",
+    "note/Uno, Nessuno e Centomila.md",
+    "note/Il berretto a sonagli.md",
+    "note/Il treno ha fischiato.md",
+    "note/La patente.md",
+    "Regimi Totalitari del '900.md",
+    "note/Ciaula scopre la luna.md",
+    "assets/pdf/Italiano/Ciaula scopre la luna.pdf",
+    "assets/pdf/Italiano/Il treno ha fischiato.pdf",
+    "note/Enrico IV.md",
+    "assets/pdf/Italiano/Enrico IV.pdf",
+    "note/Così è (se vi pare).md",
+    "assets/pdf/Italiano/Così è (se vi pare).pdf",
+    "assets/pdf/Italiano/Il berretto a sonagli.pdf",
+    "assets/pdf/Italiano/Uno, Nessuno e Centomila.pdf",
+    "note/Il fu Mattia Pascal.md",
+    "assets/pdf/Italiano/Il fu Mattia Pascal.pdf",
+    "assets/pdf/Italiano/La patente.pdf",
+    "note/Luigi Pirandello.md",
+    "assets/pdf/Italiano/Luigi Pirandello.pdf",
+    "MOC/Italiano.md",
+    "temp/Seconda Guerra Mondiale.md",
+    "temp/Italo Svevo.md",
+    "temp/Risposte.md",
+    "README.md",
+    "note/Prima Guerra Mondiale.md",
     "Percorsi Michele/Libertà Negate.md",
-    "Senza nome",
+    "Percorsi Michele/Privacy e Sicurezza.md",
     "Percorsi Michele/Progetti Informatici.md",
     "Percorsi Michele/Social Media.md",
     "Percorsi Michele/The Web Today.md",
-    "MOC/Sistemi e Reti.md",
-    "Percorsi Michele/Privacy e Sicurezza.md",
-    "assets/pdf/Storia/Destra e Sinistra storica.pdf",
-    "MOC/Storia.md",
-    "MOC/TPSIT.md",
-    "note/Realismo.md",
-    "Risposte.md",
-    "MOC/Italiano.md",
-    "note/Giovanni Verga.md",
-    "note/L'Unità d'Italia.md",
-    "assets/pdf/Italiano/Giovanni Verga.pdf",
-    "note/How to use Web safely.md",
-    "assets/pdf/Italiano/Realismo.pdf",
-    "assets/pdf/Italiano",
-    "Naturalismo.md",
-    "Verismo.md",
+    "note/Web Today.md",
+    "MOC/Inglese.md",
+    "note/Web Apps.md",
     "note/Cryptography.md",
-    "note/E-Commerce.md",
-    "assets/pdf/Storia/Seconda Guerra Mondiale/Easy.pdf",
-    "assets/pdf/Storia/Seconda Guerra Mondiale/Terza Parte WWII.pdf",
-    "note/Percorsi Michele.md",
-    "note/I Sistemi Distribuiti.md",
-    "README.md",
+    "assets/pdf/Storia/Destra e Sinistra storica.pdf",
     "Pasted image 20250605144025.png",
-    "assets/pdf/TPSIT/I Sistemi Distribuiti.pdf",
-    "assets/pdf/TPSIT/IngegneriaDelSoftware.pdf",
-    "assets/pdf/Percorsi/Progetti Informatici.pdf",
     "assets/canvas/Italiano/Ungaretti.canvas",
-    "Percorsi Michele/Percorsi Michele.md",
-    "temp/Italo Svevo.md",
     "Senza nome.canvas",
     "assets/img/ProvaEsame2.png",
     "assets/img/ProvaEsame1.png",
